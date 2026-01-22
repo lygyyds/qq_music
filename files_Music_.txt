@@ -1,0 +1,3018 @@
+
+文件类型统计:
+  .flac: 417 个文件
+  .mp3: 74 个文件
+  .ogg: 10 个文件
+
+
+============================================================
+
+文件详细信息:
+
+   1. 文件名: A-Lin - 天若有情.flac
+     类型: .flac
+     大小: 50.69 MB (53154286 字节)
+     修改时间: 2026-01-21 15:53:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\A-Lin - 天若有情.flac
+----------------------------------------
+   2. 文件名: Against the Tide-Various Artists.mp3
+     类型: .mp3
+     大小: 3.47 MB (3636516 字节)
+     修改时间: 2026-01-21 15:05:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\Against the Tide-Various Artists.mp3
+----------------------------------------
+   3. 文件名: Bagatelle In A Minor, (Fur Elise)-Mozart For Babies Ensemble_Ludwig van Beethoven.mp3
+     类型: .mp3
+     大小: 4.29 MB (4498588 字节)
+     修改时间: 2026-01-21 15:05:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\Bagatelle In A Minor, (Fur Elise)-Mozart For Babies Ensemble_Ludwig van Beethoven.mp3
+----------------------------------------
+   4. 文件名: Bagatelle in A Minor, WoO_ 59 _Für Elise_ (A小调钢琴小品，作品59 “致爱丽丝”)_H-Roger Woodward.ogg
+     类型: .ogg
+     大小: 4.42 MB (4632199 字节)
+     修改时间: 2026-01-21 17:29:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\Bagatelle in A Minor, WoO_ 59 _Für Elise_ (A小调钢琴小品，作品59 “致爱丽丝”)_H-Roger Woodward.ogg
+----------------------------------------
+   5. 文件名: Be What You Wanna Be-Darin.flac
+     类型: .flac
+     大小: 25.43 MB (26669430 字节)
+     修改时间: 2026-01-21 17:24:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\Be What You Wanna Be-Darin.flac
+----------------------------------------
+   6. 文件名: BIGBANG - IF YOU.flac
+     类型: .flac
+     大小: 26.66 MB (27953470 字节)
+     修改时间: 2026-01-21 15:53:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\BIGBANG - IF YOU.flac
+----------------------------------------
+   7. 文件名: Bones-Imagine Dragons.flac
+     类型: .flac
+     大小: 34.88 MB (36570059 字节)
+     修改时间: 2026-01-21 17:24:31
+     完整路径: C:\Users\MI\Music\music_qq\Music\Bones-Imagine Dragons.flac
+----------------------------------------
+   8. 文件名: Break Up In A Small Town-Sam Hunt.flac
+     类型: .flac
+     大小: 26.54 MB (27825659 字节)
+     修改时间: 2026-01-21 17:24:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\Break Up In A Small Town-Sam Hunt.flac
+----------------------------------------
+   9. 文件名: BY2 - 我知道.flac
+     类型: .flac
+     大小: 26.69 MB (27986742 字节)
+     修改时间: 2026-01-21 15:53:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\BY2 - 我知道.flac
+----------------------------------------
+  10. 文件名: Cody Fry _ Abby Cates - Things You Said.flac
+     类型: .flac
+     大小: 42.44 MB (44502638 字节)
+     修改时间: 2026-01-21 15:53:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\Cody Fry _ Abby Cates - Things You Said.flac
+----------------------------------------
+  11. 文件名: Come Back For You (Morgan Page Remix)-Elephante _ Matluck.flac
+     类型: .flac
+     大小: 20.36 MB (21345326 字节)
+     修改时间: 2026-01-21 17:24:31
+     完整路径: C:\Users\MI\Music\music_qq\Music\Come Back For You (Morgan Page Remix)-Elephante _ Matluck.flac
+----------------------------------------
+  12. 文件名: Come Back For You-Elephante_Matluck.mp3
+     类型: .mp3
+     大小: 3.25 MB (3407129 字节)
+     修改时间: 2026-01-21 15:05:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\Come Back For You-Elephante_Matluck.mp3
+----------------------------------------
+  13. 文件名: Dave Moffatt _ Music Travel Love - Nothing's Gonna Change My Love for You.flac
+     类型: .flac
+     大小: 20.1 MB (21073154 字节)
+     修改时间: 2026-01-21 15:53:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\Dave Moffatt _ Music Travel Love - Nothing's Gonna Change My Love for You.flac
+----------------------------------------
+  14. 文件名: DAWN - 难生恨.flac
+     类型: .flac
+     大小: 21.56 MB (22609008 字节)
+     修改时间: 2026-01-21 15:53:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\DAWN - 难生恨.flac
+----------------------------------------
+  15. 文件名: Disney _ Shakira - Zoo (From _Zootopia 2_).flac
+     类型: .flac
+     大小: 22.92 MB (24031597 字节)
+     修改时间: 2026-01-21 15:53:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\Disney _ Shakira - Zoo (From _Zootopia 2_).flac
+----------------------------------------
+  16. 文件名: Drown (Alle Farben Remix)-Martin Garrix _ Clinton Kane _ Alle Farben.flac
+     类型: .flac
+     大小: 20.21 MB (21195175 字节)
+     修改时间: 2026-01-21 17:29:54
+     完整路径: C:\Users\MI\Music\music_qq\Music\Drown (Alle Farben Remix)-Martin Garrix _ Clinton Kane _ Alle Farben.flac
+----------------------------------------
+  17. 文件名: Drown-Martin Garrix_Clinton Kane.mp3
+     类型: .mp3
+     大小: 6.59 MB (6907441 字节)
+     修改时间: 2026-01-21 17:29:54
+     完整路径: C:\Users\MI\Music\music_qq\Music\Drown-Martin Garrix_Clinton Kane.mp3
+----------------------------------------
+  18. 文件名: en (王翊恩) - 嚣张.flac
+     类型: .flac
+     大小: 50.22 MB (52655784 字节)
+     修改时间: 2026-01-21 15:53:19
+     完整路径: C:\Users\MI\Music\music_qq\Music\en (王翊恩) - 嚣张.flac
+----------------------------------------
+  19. 文件名: en (王翊恩) - 我走后 (深情版).flac
+     类型: .flac
+     大小: 26.95 MB (28258048 字节)
+     修改时间: 2026-01-21 15:53:19
+     完整路径: C:\Users\MI\Music\music_qq\Music\en (王翊恩) - 我走后 (深情版).flac
+----------------------------------------
+  20. 文件名: Eric周兴哲 - 你不属于我.flac
+     类型: .flac
+     大小: 57.14 MB (59917912 字节)
+     修改时间: 2026-01-21 15:53:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\Eric周兴哲 - 你不属于我.flac
+----------------------------------------
+  21. 文件名: Eric周兴哲 - 怎么了.flac
+     类型: .flac
+     大小: 29.6 MB (31041408 字节)
+     修改时间: 2026-01-21 15:53:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\Eric周兴哲 - 怎么了.flac
+----------------------------------------
+  22. 文件名: Ethereal-Rkps.flac
+     类型: .flac
+     大小: 26.04 MB (27301817 字节)
+     修改时间: 2026-01-21 17:24:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\Ethereal-Rkps.flac
+----------------------------------------
+  23. 文件名: Ethereal-txmy.mp3
+     类型: .mp3
+     大小: 6.65 MB (6968608 字节)
+     修改时间: 2026-01-21 15:05:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\Ethereal-txmy.mp3
+----------------------------------------
+  24. 文件名: Every Time We Touch-Dream Tunes.flac
+     类型: .flac
+     大小: 17.34 MB (18185900 字节)
+     修改时间: 2026-01-21 17:24:37
+     完整路径: C:\Users\MI\Music\music_qq\Music\Every Time We Touch-Dream Tunes.flac
+----------------------------------------
+  25. 文件名: Everytime We Touch-Cascada.flac
+     类型: .flac
+     大小: 24.49 MB (25676193 字节)
+     修改时间: 2026-01-21 17:24:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\Everytime We Touch-Cascada.flac
+----------------------------------------
+  26. 文件名: Evolve (淬炼)-王者荣耀 _ Ki_Theory.flac
+     类型: .flac
+     大小: 24.8 MB (26001731 字节)
+     修改时间: 2026-01-21 17:24:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\Evolve (淬炼)-王者荣耀 _ Ki_Theory.flac
+----------------------------------------
+  27. 文件名: Faded-Alan Walker.mp3
+     类型: .mp3
+     大小: 8.41 MB (8815907 字节)
+     修改时间: 2026-01-21 15:05:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\Faded-Alan Walker.mp3
+----------------------------------------
+  28. 文件名: G_E_M_ 邓紫棋 - 唯一.flac
+     类型: .flac
+     大小: 49.26 MB (51651595 字节)
+     修改时间: 2026-01-21 15:53:21
+     完整路径: C:\Users\MI\Music\music_qq\Music\G_E_M_ 邓紫棋 - 唯一.flac
+----------------------------------------
+  29. 文件名: G_E_M_ 邓紫棋 - 多远都要在一起.flac
+     类型: .flac
+     大小: 23.42 MB (24557089 字节)
+     修改时间: 2026-01-21 15:53:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\G_E_M_ 邓紫棋 - 多远都要在一起.flac
+----------------------------------------
+  30. 文件名: Hindenburg Lover-Anson Seabra.flac
+     类型: .flac
+     大小: 26.17 MB (27444819 字节)
+     修改时间: 2026-01-21 17:24:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\Hindenburg Lover-Anson Seabra.flac
+----------------------------------------
+  31. 文件名: Ice Paper - 心如止水.flac
+     类型: .flac
+     大小: 35.52 MB (37244768 字节)
+     修改时间: 2026-01-21 15:53:21
+     完整路径: C:\Users\MI\Music\music_qq\Music\Ice Paper - 心如止水.flac
+----------------------------------------
+  32. 文件名: Just Say Hello (甘草片版)-甘草片r.flac
+     类型: .flac
+     大小: 47.18 MB (49474832 字节)
+     修改时间: 2026-01-21 17:24:41
+     完整路径: C:\Users\MI\Music\music_qq\Music\Just Say Hello (甘草片版)-甘草片r.flac
+----------------------------------------
+  33. 文件名: Justin Bieber _ Drake - Right Here.flac
+     类型: .flac
+     大小: 24.66 MB (25861867 字节)
+     修改时间: 2026-01-21 15:53:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\Justin Bieber _ Drake - Right Here.flac
+----------------------------------------
+  34. 文件名: K _ 安苏羽 _ 傅梦彤 - 潮汐(Natural)-IN.flac
+     类型: .flac
+     大小: 34.16 MB (35816660 字节)
+     修改时间: 2026-01-21 17:24:41
+     完整路径: C:\Users\MI\Music\music_qq\Music\K _ 安苏羽 _ 傅梦彤 - 潮汐(Natural)-IN.flac
+----------------------------------------
+  35. 文件名: LBI利比（时柏尘） - 跳楼机.flac
+     类型: .flac
+     大小: 37.58 MB (39409680 字节)
+     修改时间: 2026-01-21 15:53:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\LBI利比（时柏尘） - 跳楼机.flac
+----------------------------------------
+  36. 文件名: Lemon (柠檬)-米津玄師.flac
+     类型: .flac
+     大小: 28.37 MB (29744738 字节)
+     修改时间: 2026-01-21 17:24:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\Lemon (柠檬)-米津玄師.flac
+----------------------------------------
+  37. 文件名: LOSER-米津玄師.flac
+     类型: .flac
+     大小: 30.37 MB (31847961 字节)
+     修改时间: 2026-01-21 17:24:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\LOSER-米津玄師.flac
+----------------------------------------
+  38. 文件名: Love You Like A Love Song (新版)-七元.flac
+     类型: .flac
+     大小: 22.66 MB (23758215 字节)
+     修改时间: 2026-01-21 17:24:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\Love You Like A Love Song (新版)-七元.flac
+----------------------------------------
+  39. 文件名: Love You Like a Love Song-Selena Gomez The Scene.mp3
+     类型: .mp3
+     大小: 7.53 MB (7891078 字节)
+     修改时间: 2026-01-21 15:05:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\Love You Like a Love Song-Selena Gomez The Scene.mp3
+----------------------------------------
+  40. 文件名: Mallow Flower (锦葵花)_H-Otokaze.ogg
+     类型: .ogg
+     大小: 5.76 MB (6042467 字节)
+     修改时间: 2026-01-21 17:24:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\Mallow Flower (锦葵花)_H-Otokaze.ogg
+----------------------------------------
+  41. 文件名: Mallow Flower-Otokaze.mp3
+     类型: .mp3
+     大小: 4.05 MB (4248890 字节)
+     修改时间: 2026-01-21 15:05:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\Mallow Flower-Otokaze.mp3
+----------------------------------------
+  42. 文件名: melo-D - Just Say Hello.flac
+     类型: .flac
+     大小: 54.64 MB (57295476 字节)
+     修改时间: 2026-01-21 17:24:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\melo-D - Just Say Hello.flac
+----------------------------------------
+  43. 文件名: Michita - Cry For Me (feat_ Ami) (为我哭泣).flac
+     类型: .flac
+     大小: 32.5 MB (34080636 字节)
+     修改时间: 2026-01-21 15:53:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\Michita - Cry For Me (feat_ Ami) (为我哭泣).flac
+----------------------------------------
+  44. 文件名: Monsters-Katie Sky.flac
+     类型: .flac
+     大小: 26.7 MB (28001206 字节)
+     修改时间: 2026-01-21 17:24:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\Monsters-Katie Sky.flac
+----------------------------------------
+  45. 文件名: Neon Rainbow-Rameses B _ Anna Yvette.flac
+     类型: .flac
+     大小: 34.44 MB (36118179 字节)
+     修改时间: 2026-01-21 17:24:44
+     完整路径: C:\Users\MI\Music\music_qq\Music\Neon Rainbow-Rameses B _ Anna Yvette.flac
+----------------------------------------
+  46. 文件名: Neon Rainbow-Rameses B_Anna Yvette.mp3
+     类型: .mp3
+     大小: 10.26 MB (10759162 字节)
+     修改时间: 2026-01-21 15:05:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\Neon Rainbow-Rameses B_Anna Yvette.mp3
+----------------------------------------
+  47. 文件名: New Boy-房东的猫.flac
+     类型: .flac
+     大小: 54.87 MB (57538721 字节)
+     修改时间: 2026-01-21 17:24:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\New Boy-房东的猫.flac
+----------------------------------------
+  48. 文件名: NEW BOY-朴树.flac
+     类型: .flac
+     大小: 27.49 MB (28822644 字节)
+     修改时间: 2026-01-21 17:24:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\NEW BOY-朴树.flac
+----------------------------------------
+  49. 文件名: Ni_Co - Bleeding Love.flac
+     类型: .flac
+     大小: 14.01 MB (14689200 字节)
+     修改时间: 2026-01-21 15:53:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\Ni_Co - Bleeding Love.flac
+----------------------------------------
+  50. 文件名: No Roots-Alice Merton.flac
+     类型: .flac
+     大小: 26.0 MB (27265316 字节)
+     修改时间: 2026-01-21 17:24:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\No Roots-Alice Merton.flac
+----------------------------------------
+  51. 文件名: NW - 飘向北方 (Live)-尤长靖 _ 那吾克热.flac
+     类型: .flac
+     大小: 51.99 MB (54520037 字节)
+     修改时间: 2026-01-21 17:24:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\NW - 飘向北方 (Live)-尤长靖 _ 那吾克热.flac
+----------------------------------------
+  52. 文件名: ODD陈思键 - 爱如火 (破碎版).flac
+     类型: .flac
+     大小: 37.05 MB (38852890 字节)
+     修改时间: 2026-01-21 15:53:28
+     完整路径: C:\Users\MI\Music\music_qq\Music\ODD陈思键 - 爱如火 (破碎版).flac
+----------------------------------------
+  53. 文件名: Party Train (Explicit)-Redfoo.flac
+     类型: .flac
+     大小: 26.3 MB (27578753 字节)
+     修改时间: 2026-01-21 17:24:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\Party Train (Explicit)-Redfoo.flac
+----------------------------------------
+  54. 文件名: Party Train-Redfoo.mp3
+     类型: .mp3
+     大小: 7.96 MB (8345140 字节)
+     修改时间: 2026-01-21 15:05:44
+     完整路径: C:\Users\MI\Music\music_qq\Music\Party Train-Redfoo.mp3
+----------------------------------------
+  55. 文件名: Peter Pan Was Right-Anson Seabra.flac
+     类型: .flac
+     大小: 18.45 MB (19347661 字节)
+     修改时间: 2026-01-21 17:24:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\Peter Pan Was Right-Anson Seabra.flac
+----------------------------------------
+  56. 文件名: Remember Our Summer-FrogMonster.flac
+     类型: .flac
+     大小: 19.87 MB (20833604 字节)
+     修改时间: 2026-01-21 17:24:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\Remember Our Summer-FrogMonster.flac
+----------------------------------------
+  57. 文件名: ROSÉ _ Bruno Mars - APT_.flac
+     类型: .flac
+     大小: 21.51 MB (22553106 字节)
+     修改时间: 2026-01-21 15:53:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\ROSÉ _ Bruno Mars - APT_.flac
+----------------------------------------
+  58. 文件名: Salt-Ava Max.flac
+     类型: .flac
+     大小: 37.8 MB (39633480 字节)
+     修改时间: 2026-01-21 17:24:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\Salt-Ava Max.flac
+----------------------------------------
+  59. 文件名: Senbonzakura (Inst_)-Lindsey Stirling.flac
+     类型: .flac
+     大小: 21.21 MB (22241193 字节)
+     修改时间: 2026-01-21 17:24:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\Senbonzakura (Inst_)-Lindsey Stirling.flac
+----------------------------------------
+  60. 文件名: Senbonzakura-Lindsey Stirling.mp3
+     类型: .mp3
+     大小: 3.0 MB (3143427 字节)
+     修改时间: 2026-01-21 15:05:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\Senbonzakura-Lindsey Stirling.mp3
+----------------------------------------
+  61. 文件名: Senbonzakura_H-Lindsey Stirling.ogg
+     类型: .ogg
+     大小: 3.69 MB (3867329 字节)
+     修改时间: 2026-01-21 17:24:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\Senbonzakura_H-Lindsey Stirling.ogg
+----------------------------------------
+  62. 文件名: Sketch Plane-Cam Kelley.flac
+     类型: .flac
+     大小: 24.16 MB (25329258 字节)
+     修改时间: 2026-01-21 17:24:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\Sketch Plane-Cam Kelley.flac
+----------------------------------------
+  63. 文件名: Sugar-Maroon 5.flac
+     类型: .flac
+     大小: 51.26 MB (53746663 字节)
+     修改时间: 2026-01-21 17:24:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\Sugar-Maroon 5.flac
+----------------------------------------
+  64. 文件名: Tank - 三国恋.flac
+     类型: .flac
+     大小: 31.7 MB (33240069 字节)
+     修改时间: 2026-01-21 15:53:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\Tank - 三国恋.flac
+----------------------------------------
+  65. 文件名: That Girl-Olly Murs.flac
+     类型: .flac
+     大小: 20.46 MB (21454053 字节)
+     修改时间: 2026-01-21 17:24:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\That Girl-Olly Murs.flac
+----------------------------------------
+  66. 文件名: TINY7 - 零距离的思念.flac
+     类型: .flac
+     大小: 40.83 MB (42810430 字节)
+     修改时间: 2026-01-21 15:53:24
+     完整路径: C:\Users\MI\Music\music_qq\Music\TINY7 - 零距离的思念.flac
+----------------------------------------
+  67. 文件名: Tonight (Best You Ever Had)-John Legend _ Ludacris.flac
+     类型: .flac
+     大小: 27.98 MB (29341444 字节)
+     修改时间: 2026-01-21 17:24:51
+     完整路径: C:\Users\MI\Music\music_qq\Music\Tonight (Best You Ever Had)-John Legend _ Ludacris.flac
+----------------------------------------
+  68. 文件名: Trouble Is A Friend-Lenka.flac
+     类型: .flac
+     大小: 26.33 MB (27609770 字节)
+     修改时间: 2026-01-21 17:24:51
+     完整路径: C:\Users\MI\Music\music_qq\Music\Trouble Is A Friend-Lenka.flac
+----------------------------------------
+  69. 文件名: U Make Me (Natan Chaim & Asketa Remix)-Disco Fries _ Raquel Castro.flac
+     类型: .flac
+     大小: 21.13 MB (22159315 字节)
+     修改时间: 2026-01-21 17:24:51
+     完整路径: C:\Users\MI\Music\music_qq\Music\U Make Me (Natan Chaim & Asketa Remix)-Disco Fries _ Raquel Castro.flac
+----------------------------------------
+  70. 文件名: Until You-Shayne Ward.flac
+     类型: .flac
+     大小: 29.91 MB (31360580 字节)
+     修改时间: 2026-01-21 17:24:51
+     完整路径: C:\Users\MI\Music\music_qq\Music\Until You-Shayne Ward.flac
+----------------------------------------
+  71. 文件名: Walk Thru Fire-Vicetone _ Meron Ryan.flac
+     类型: .flac
+     大小: 40.55 MB (42520237 字节)
+     修改时间: 2026-01-21 17:24:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\Walk Thru Fire-Vicetone _ Meron Ryan.flac
+----------------------------------------
+  72. 文件名: We Will Rock You (Remastered 2011)-Queen.flac
+     类型: .flac
+     大小: 13.59 MB (14247371 字节)
+     修改时间: 2026-01-21 17:30:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\We Will Rock You (Remastered 2011)-Queen.flac
+----------------------------------------
+  73. 文件名: We Will Rock You-Queen.mp3
+     类型: .mp3
+     大小: 4.9 MB (5142910 字节)
+     修改时间: 2026-01-21 15:05:48
+     完整路径: C:\Users\MI\Music\music_qq\Music\We Will Rock You-Queen.mp3
+----------------------------------------
+  74. 文件名: What Makes You Beautiful-ENHYPEN.flac
+     类型: .flac
+     大小: 32.15 MB (33711306 字节)
+     修改时间: 2026-01-21 17:24:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\What Makes You Beautiful-ENHYPEN.flac
+----------------------------------------
+  75. 文件名: What Makes You Beautiful-One Direction.flac
+     类型: .flac
+     大小: 25.79 MB (27039346 字节)
+     修改时间: 2026-01-21 17:24:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\What Makes You Beautiful-One Direction.flac
+----------------------------------------
+  76. 文件名: Where Are You Now_-Oscar Stembridge.flac
+     类型: .flac
+     大小: 18.42 MB (19309627 字节)
+     修改时间: 2026-01-21 17:24:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\Where Are You Now_-Oscar Stembridge.flac
+----------------------------------------
+  77. 文件名: Where Did U Go (G_E_M_重生版)-G_E_M_ 邓紫棋.flac
+     类型: .flac
+     大小: 52.38 MB (54922175 字节)
+     修改时间: 2026-01-21 17:30:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\Where Did U Go (G_E_M_重生版)-G_E_M_ 邓紫棋.flac
+----------------------------------------
+  78. 文件名: yes auto-SeVen.13.mp3
+     类型: .mp3
+     大小: 9.92 MB (10401883 字节)
+     修改时间: 2026-01-21 17:30:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\yes auto-SeVen.13.mp3
+----------------------------------------
+  79. 文件名: yes auto-SeVen_13.flac
+     类型: .flac
+     大小: 25.14 MB (26365427 字节)
+     修改时间: 2026-01-21 17:30:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\yes auto-SeVen_13.flac
+----------------------------------------
+  80. 文件名: You Don't Know Me-Ofenbach _ Brodie Barclay.flac
+     类型: .flac
+     大小: 15.83 MB (16599150 字节)
+     修改时间: 2026-01-21 17:24:54
+     完整路径: C:\Users\MI\Music\music_qq\Music\You Don't Know Me-Ofenbach _ Brodie Barclay.flac
+----------------------------------------
+  81. 文件名: Zealot周星星 - 毒药.flac
+     类型: .flac
+     大小: 41.83 MB (43861687 字节)
+     修改时间: 2026-01-21 15:53:24
+     完整路径: C:\Users\MI\Music\music_qq\Music\Zealot周星星 - 毒药.flac
+----------------------------------------
+  82. 文件名: Zkaaai - 蓝色灰色.flac
+     类型: .flac
+     大小: 46.94 MB (49223870 字节)
+     修改时间: 2026-01-21 15:53:23
+     完整路径: C:\Users\MI\Music\music_qq\Music\Zkaaai - 蓝色灰色.flac
+----------------------------------------
+  83. 文件名: おどるポンポコリン (オドルポンポコリン)-大原樱子.flac
+     类型: .flac
+     大小: 25.43 MB (26664203 字节)
+     修改时间: 2026-01-21 17:24:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\おどるポンポコリン (オドルポンポコリン)-大原樱子.flac
+----------------------------------------
+  84. 文件名: 一曲相思-半阳.flac
+     类型: .flac
+     大小: 31.05 MB (32562740 字节)
+     修改时间: 2026-01-21 17:26:56
+     完整路径: C:\Users\MI\Music\music_qq\Music\一曲相思-半阳.flac
+----------------------------------------
+  85. 文件名: 一生有你-水木年华.flac
+     类型: .flac
+     大小: 26.81 MB (28114047 字节)
+     修改时间: 2026-01-21 17:26:54
+     完整路径: C:\Users\MI\Music\music_qq\Music\一生有你-水木年华.flac
+----------------------------------------
+  86. 文件名: 一程山路-毛不易.flac
+     类型: .flac
+     大小: 20.6 MB (21595976 字节)
+     修改时间: 2026-01-21 17:26:51
+     完整路径: C:\Users\MI\Music\music_qq\Music\一程山路-毛不易.flac
+----------------------------------------
+  87. 文件名: 一路向自由-陈嘉宇.flac
+     类型: .flac
+     大小: 45.43 MB (47638052 字节)
+     修改时间: 2026-01-21 17:31:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\一路向自由-陈嘉宇.flac
+----------------------------------------
+  88. 文件名: 一路往南走 (种完麦子我就往南走)-卢润泽.flac
+     类型: .flac
+     大小: 47.08 MB (49369411 字节)
+     修改时间: 2026-01-21 17:26:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\一路往南走 (种完麦子我就往南走)-卢润泽.flac
+----------------------------------------
+  89. 文件名: 一路生花-温奕心.flac
+     类型: .flac
+     大小: 27.09 MB (28408293 字节)
+     修改时间: 2026-01-21 17:31:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\一路生花-温奕心.flac
+----------------------------------------
+  90. 文件名: 丁禹兮 - 消散对白.flac
+     类型: .flac
+     大小: 41.21 MB (43214807 字节)
+     修改时间: 2026-01-21 15:53:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\丁禹兮 - 消散对白.flac
+----------------------------------------
+  91. 文件名: 不分手的恋爱-汪苏泷.mp3
+     类型: .mp3
+     大小: 8.07 MB (8459274 字节)
+     修改时间: 2026-01-21 15:05:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\不分手的恋爱-汪苏泷.mp3
+----------------------------------------
+  92. 文件名: 不是花火呀 - 想自由.flac
+     类型: .flac
+     大小: 38.05 MB (39897202 字节)
+     修改时间: 2026-01-21 15:53:26
+     完整路径: C:\Users\MI\Music\music_qq\Music\不是花火呀 - 想自由.flac
+----------------------------------------
+  93. 文件名: 不知你心-大川Dietry.flac
+     类型: .flac
+     大小: 21.69 MB (22744289 字节)
+     修改时间: 2026-01-21 17:30:12
+     完整路径: C:\Users\MI\Music\music_qq\Music\不知你心-大川Dietry.flac
+----------------------------------------
+  94. 文件名: 不能说的秘密-周杰伦.flac
+     类型: .flac
+     大小: 31.98 MB (33534979 字节)
+     修改时间: 2026-01-21 17:24:59
+     完整路径: C:\Users\MI\Music\music_qq\Music\不能说的秘密-周杰伦.flac
+----------------------------------------
+  95. 文件名: 东风破-周杰伦.flac
+     类型: .flac
+     大小: 33.42 MB (35045392 字节)
+     修改时间: 2026-01-21 17:25:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\东风破-周杰伦.flac
+----------------------------------------
+  96. 文件名: 丫头-王童语.flac
+     类型: .flac
+     大小: 36.6 MB (38377251 字节)
+     修改时间: 2026-01-21 17:26:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\丫头-王童语.flac
+----------------------------------------
+  97. 文件名: 为你写诗-吴克群.flac
+     类型: .flac
+     大小: 30.66 MB (32146034 字节)
+     修改时间: 2026-01-21 17:26:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\为你写诗-吴克群.flac
+----------------------------------------
+  98. 文件名: 乘风破浪向你飘-好多倩.flac
+     类型: .flac
+     大小: 40.7 MB (42679707 字节)
+     修改时间: 2026-01-21 17:25:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\乘风破浪向你飘-好多倩.flac
+----------------------------------------
+  99. 文件名: 于冬然 - 其实都没有.flac
+     类型: .flac
+     大小: 44.12 MB (46258821 字节)
+     修改时间: 2026-01-21 15:54:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\于冬然 - 其实都没有.flac
+----------------------------------------
+ 100. 文件名: 五十年以后-海来阿木.flac
+     类型: .flac
+     大小: 61.62 MB (64617340 字节)
+     修改时间: 2026-01-21 17:26:35
+     完整路径: C:\Users\MI\Music\music_qq\Music\五十年以后-海来阿木.flac
+----------------------------------------
+ 101. 文件名: 五月天 - 如果我们不曾相遇.flac
+     类型: .flac
+     大小: 44.8 MB (46979804 字节)
+     修改时间: 2026-01-21 15:54:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\五月天 - 如果我们不曾相遇.flac
+----------------------------------------
+ 102. 文件名: 五月天 - 我不愿 让你一个人.flac
+     类型: .flac
+     大小: 26.9 MB (28208805 字节)
+     修改时间: 2026-01-21 15:54:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\五月天 - 我不愿 让你一个人.flac
+----------------------------------------
+ 103. 文件名: 五月天 - 知足 (07 最知足版).flac
+     类型: .flac
+     大小: 34.79 MB (36481091 字节)
+     修改时间: 2026-01-21 15:54:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\五月天 - 知足 (07 最知足版).flac
+----------------------------------------
+ 104. 文件名: 五月天 - 突然好想你.flac
+     类型: .flac
+     大小: 28.18 MB (29546368 字节)
+     修改时间: 2026-01-21 15:54:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\五月天 - 突然好想你.flac
+----------------------------------------
+ 105. 文件名: 五月天 _ 孙燕姿 - 温柔 #MaydayBlue20th.flac
+     类型: .flac
+     大小: 58.45 MB (61288122 字节)
+     修改时间: 2026-01-21 15:54:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\五月天 _ 孙燕姿 - 温柔 #MaydayBlue20th.flac
+----------------------------------------
+ 106. 文件名: 井迪儿 - 失控.flac
+     类型: .flac
+     大小: 29.03 MB (30435499 字节)
+     修改时间: 2026-01-21 15:53:44
+     完整路径: C:\Users\MI\Music\music_qq\Music\井迪儿 - 失控.flac
+----------------------------------------
+ 107. 文件名: 今天你要嫁给我-陶喆 _ 蔡依林.flac
+     类型: .flac
+     大小: 29.82 MB (31271646 字节)
+     修改时间: 2026-01-21 17:25:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\今天你要嫁给我-陶喆 _ 蔡依林.flac
+----------------------------------------
+ 108. 文件名: 今天你要嫁给我-陶喆_蔡依林.mp3
+     类型: .mp3
+     大小: 10.66 MB (11175041 字节)
+     修改时间: 2026-01-21 15:06:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\今天你要嫁给我-陶喆_蔡依林.mp3
+----------------------------------------
+ 109. 文件名: 今晚不想睡 (DJ版)-王大毛.flac
+     类型: .flac
+     大小: 22.16 MB (23238118 字节)
+     修改时间: 2026-01-21 17:25:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\今晚不想睡 (DJ版)-王大毛.flac
+----------------------------------------
+ 110. 文件名: 今晚不想睡-王赫野_拜德盖Viigho.mp3
+     类型: .mp3
+     大小: 6.87 MB (7199491 字节)
+     修改时间: 2026-01-21 15:06:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\今晚不想睡-王赫野_拜德盖Viigho.mp3
+----------------------------------------
+ 111. 文件名: 任素汐 - 亲爱的你啊.flac
+     类型: .flac
+     大小: 42.05 MB (44089032 字节)
+     修改时间: 2026-01-21 15:53:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\任素汐 - 亲爱的你啊.flac
+----------------------------------------
+ 112. 文件名: 休眠火山 - 第57次取消发送.flac
+     类型: .flac
+     大小: 21.58 MB (22629048 字节)
+     修改时间: 2026-01-21 15:54:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\休眠火山 - 第57次取消发送.flac
+----------------------------------------
+ 113. 文件名: 你不是真正的快乐-五月天.flac
+     类型: .flac
+     大小: 35.49 MB (37212942 字节)
+     修改时间: 2026-01-21 17:25:57
+     完整路径: C:\Users\MI\Music\music_qq\Music\你不是真正的快乐-五月天.flac
+----------------------------------------
+ 114. 文件名: 你的背包-陈奕迅.flac
+     类型: .flac
+     大小: 24.09 MB (25259739 字节)
+     修改时间: 2026-01-21 17:25:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\你的背包-陈奕迅.flac
+----------------------------------------
+ 115. 文件名: 你知不知道 (无人的岛节奏版)-曲木老表.flac
+     类型: .flac
+     大小: 41.02 MB (43017747 字节)
+     修改时间: 2026-01-21 17:25:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\你知不知道 (无人的岛节奏版)-曲木老表.flac
+----------------------------------------
+ 116. 文件名: 你知不知道（遇见你的午后）-曲木老表.mp3
+     类型: .mp3
+     大小: 8.38 MB (8781932 字节)
+     修改时间: 2026-01-21 15:06:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\你知不知道（遇见你的午后）-曲木老表.mp3
+----------------------------------------
+ 117. 文件名: 信仰-张信哲.flac
+     类型: .flac
+     大小: 26.49 MB (27781675 字节)
+     修改时间: 2026-01-21 17:26:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\信仰-张信哲.flac
+----------------------------------------
+ 118. 文件名: 倔强-五月天.flac
+     类型: .flac
+     大小: 31.05 MB (32559127 字节)
+     修改时间: 2026-01-21 17:25:37
+     完整路径: C:\Users\MI\Music\music_qq\Music\倔强-五月天.flac
+----------------------------------------
+ 119. 文件名: 借东风 (DJ默涵版)-王同学Able.flac
+     类型: .flac
+     大小: 34.57 MB (36245462 字节)
+     修改时间: 2026-01-21 17:25:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\借东风 (DJ默涵版)-王同学Able.flac
+----------------------------------------
+ 120. 文件名: 借东风-屠洪刚.mp3
+     类型: .mp3
+     大小: 4.26 MB (4466221 字节)
+     修改时间: 2026-01-21 15:06:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\借东风-屠洪刚.mp3
+----------------------------------------
+ 121. 文件名: 做自己的光，不需要太亮-刘亦辰.flac
+     类型: .flac
+     大小: 16.93 MB (17749941 字节)
+     修改时间: 2026-01-21 17:27:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\做自己的光，不需要太亮-刘亦辰.flac
+----------------------------------------
+ 122. 文件名: 做自己的光，不需要太亮-善宇.flac
+     类型: .flac
+     大小: 31.38 MB (32901051 字节)
+     修改时间: 2026-01-21 17:31:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\做自己的光，不需要太亮-善宇.flac
+----------------------------------------
+ 123. 文件名: 像我这样的人 (Live)-毛不易.flac
+     类型: .flac
+     大小: 32.97 MB (34576587 字节)
+     修改时间: 2026-01-21 17:26:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\像我这样的人 (Live)-毛不易.flac
+----------------------------------------
+ 124. 文件名: 像我这样的人-毛不易.mp3
+     类型: .mp3
+     大小: 6.63 MB (6952190 字节)
+     修改时间: 2026-01-21 15:06:35
+     完整路径: C:\Users\MI\Music\music_qq\Music\像我这样的人-毛不易.mp3
+----------------------------------------
+ 125. 文件名: 像风一样自由-许巍.flac
+     类型: .flac
+     大小: 25.54 MB (26777027 字节)
+     修改时间: 2026-01-21 17:26:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\像风一样自由-许巍.flac
+----------------------------------------
+ 126. 文件名: 光的方向-张碧晨.mp3
+     类型: .mp3
+     大小: 7.24 MB (7588719 字节)
+     修改时间: 2026-01-21 15:06:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\光的方向-张碧晨.mp3
+----------------------------------------
+ 127. 文件名: 写给黄淮 (Live)-邵帅.flac
+     类型: .flac
+     大小: 44.3 MB (46448901 字节)
+     修改时间: 2026-01-21 17:26:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\写给黄淮 (Live)-邵帅.flac
+----------------------------------------
+ 128. 文件名: 写给黄淮-邵帅.mp3
+     类型: .mp3
+     大小: 3.59 MB (3766942 字节)
+     修改时间: 2026-01-21 15:06:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\写给黄淮-邵帅.mp3
+----------------------------------------
+ 129. 文件名: 凉城-任然.flac
+     类型: .flac
+     大小: 23.35 MB (24485118 字节)
+     修改时间: 2026-01-21 17:25:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\凉城-任然.flac
+----------------------------------------
+ 130. 文件名: 几度怀念-残雪.flac
+     类型: .flac
+     大小: 24.97 MB (26184685 字节)
+     修改时间: 2026-01-21 17:25:30
+     完整路径: C:\Users\MI\Music\music_qq\Music\几度怀念-残雪.flac
+----------------------------------------
+ 131. 文件名: 凤凰传奇 - 奢香夫人.flac
+     类型: .flac
+     大小: 30.0 MB (31461605 字节)
+     修改时间: 2026-01-21 15:53:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\凤凰传奇 - 奢香夫人.flac
+----------------------------------------
+ 132. 文件名: 刘大拿 - 寂寞沙洲冷 (女声治愈版).flac
+     类型: .flac
+     大小: 23.56 MB (24705560 字节)
+     修改时间: 2026-01-21 15:53:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\刘大拿 - 寂寞沙洲冷 (女声治愈版).flac
+----------------------------------------
+ 133. 文件名: 刘瑞琦 - 两三句.flac
+     类型: .flac
+     大小: 46.06 MB (48302127 字节)
+     修改时间: 2026-01-21 15:53:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\刘瑞琦 - 两三句.flac
+----------------------------------------
+ 134. 文件名: 别想她-高进.mp3
+     类型: .mp3
+     大小: 8.84 MB (9271682 字节)
+     修改时间: 2026-01-21 17:30:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\别想她-高进.mp3
+----------------------------------------
+ 135. 文件名: 别想她_H-高进.ogg
+     类型: .ogg
+     大小: 5.4 MB (5663915 字节)
+     修改时间: 2026-01-21 17:30:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\别想她_H-高进.ogg
+----------------------------------------
+ 136. 文件名: 动物世界-薛之谦.flac
+     类型: .flac
+     大小: 20.85 MB (21860185 字节)
+     修改时间: 2026-01-21 17:25:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\动物世界-薛之谦.flac
+----------------------------------------
+ 137. 文件名: 医生-许嵩.flac
+     类型: .flac
+     大小: 25.97 MB (27235933 字节)
+     修改时间: 2026-01-21 17:26:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\医生-许嵩.flac
+----------------------------------------
+ 138. 文件名: 单依纯 - 想你时风起.flac
+     类型: .flac
+     大小: 29.35 MB (30774248 字节)
+     修改时间: 2026-01-21 15:53:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\单依纯 - 想你时风起.flac
+----------------------------------------
+ 139. 文件名: 即便我身如雪花-张梦初.flac
+     类型: .flac
+     大小: 45.38 MB (47579481 字节)
+     修改时间: 2026-01-21 17:25:28
+     完整路径: C:\Users\MI\Music\music_qq\Music\即便我身如雪花-张梦初.flac
+----------------------------------------
+ 140. 文件名: 反方向的钟-周杰伦.flac
+     类型: .flac
+     大小: 27.15 MB (28466583 字节)
+     修改时间: 2026-01-21 17:25:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\反方向的钟-周杰伦.flac
+----------------------------------------
+ 141. 文件名: 古今赋-张尚军.flac
+     类型: .flac
+     大小: 16.94 MB (17760575 字节)
+     修改时间: 2026-01-21 17:25:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\古今赋-张尚军.flac
+----------------------------------------
+ 142. 文件名: 古巨基 - 必杀技.flac
+     类型: .flac
+     大小: 23.34 MB (24469856 字节)
+     修改时间: 2026-01-21 15:53:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\古巨基 - 必杀技.flac
+----------------------------------------
+ 143. 文件名: 句号-G.E.M. 邓紫棋.mp3
+     类型: .mp3
+     大小: 10.17 MB (10666547 字节)
+     修改时间: 2026-01-21 15:06:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\句号-G.E.M. 邓紫棋.mp3
+----------------------------------------
+ 144. 文件名: 句号-G_E_M_ 邓紫棋.flac
+     类型: .flac
+     大小: 26.47 MB (27757643 字节)
+     修改时间: 2026-01-21 17:25:37
+     完整路径: C:\Users\MI\Music\music_qq\Music\句号-G_E_M_ 邓紫棋.flac
+----------------------------------------
+ 145. 文件名: 可能-李怡然同学.flac
+     类型: .flac
+     大小: 43.08 MB (45172480 字节)
+     修改时间: 2026-01-21 17:25:36
+     完整路径: C:\Users\MI\Music\music_qq\Music\可能-李怡然同学.flac
+----------------------------------------
+ 146. 文件名: 可能-程响.flac
+     类型: .flac
+     大小: 41.16 MB (43156868 字节)
+     修改时间: 2026-01-21 17:25:37
+     完整路径: C:\Users\MI\Music\music_qq\Music\可能-程响.flac
+----------------------------------------
+ 147. 文件名: 司南 - 冬眠.flac
+     类型: .flac
+     大小: 25.73 MB (26983640 字节)
+     修改时间: 2026-01-21 15:53:56
+     完整路径: C:\Users\MI\Music\music_qq\Music\司南 - 冬眠.flac
+----------------------------------------
+ 148. 文件名: 各路神仙拜一遍-黄文文.flac
+     类型: .flac
+     大小: 37.69 MB (39525035 字节)
+     修改时间: 2026-01-21 17:25:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\各路神仙拜一遍-黄文文.flac
+----------------------------------------
+ 149. 文件名: 吉星出租 - 暮色回响.flac
+     类型: .flac
+     大小: 34.81 MB (36496171 字节)
+     修改时间: 2026-01-21 15:53:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\吉星出租 - 暮色回响.flac
+----------------------------------------
+ 150. 文件名: 同桌的你-老狼.mp3
+     类型: .mp3
+     大小: 8.64 MB (9059044 字节)
+     修改时间: 2026-01-21 15:06:29
+     完整路径: C:\Users\MI\Music\music_qq\Music\同桌的你-老狼.mp3
+----------------------------------------
+ 151. 文件名: 同桌的你-胡夏.flac
+     类型: .flac
+     大小: 19.06 MB (19987655 字节)
+     修改时间: 2026-01-21 17:26:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\同桌的你-胡夏.flac
+----------------------------------------
+ 152. 文件名: 后会无期-徐良_汪苏泷.mp3
+     类型: .mp3
+     大小: 8.52 MB (8928710 字节)
+     修改时间: 2026-01-21 15:06:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\后会无期-徐良_汪苏泷.mp3
+----------------------------------------
+ 153. 文件名: 后会无期-陈佳柔.flac
+     类型: .flac
+     大小: 2.92 MB (3066660 字节)
+     修改时间: 2026-01-21 17:25:29
+     完整路径: C:\Users\MI\Music\music_qq\Music\后会无期-陈佳柔.flac
+----------------------------------------
+ 154. 文件名: 后弦 - 下完这场雨.flac
+     类型: .flac
+     大小: 29.23 MB (30652256 字节)
+     修改时间: 2026-01-21 15:53:41
+     完整路径: C:\Users\MI\Music\music_qq\Music\后弦 - 下完这场雨.flac
+----------------------------------------
+ 155. 文件名: 吕口口 - 爱我的人和我爱的人.flac
+     类型: .flac
+     大小: 33.64 MB (35272858 字节)
+     修改时间: 2026-01-21 15:53:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\吕口口 - 爱我的人和我爱的人.flac
+----------------------------------------
+ 156. 文件名: 告五人 - 爱人错过.flac
+     类型: .flac
+     大小: 63.55 MB (66638952 字节)
+     修改时间: 2026-01-21 15:53:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\告五人 - 爱人错过.flac
+----------------------------------------
+ 157. 文件名: 告五人 - 给你一瓶魔法药水.flac
+     类型: .flac
+     大小: 57.2 MB (59978212 字节)
+     修改时间: 2026-01-21 15:53:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\告五人 - 给你一瓶魔法药水.flac
+----------------------------------------
+ 158. 文件名: 周传雄 - 冬天的秘密.flac
+     类型: .flac
+     大小: 31.58 MB (33118668 字节)
+     修改时间: 2026-01-21 15:54:24
+     完整路径: C:\Users\MI\Music\music_qq\Music\周传雄 - 冬天的秘密.flac
+----------------------------------------
+ 159. 文件名: 周传雄 - 青花.flac
+     类型: .flac
+     大小: 35.26 MB (36975468 字节)
+     修改时间: 2026-01-21 15:54:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\周传雄 - 青花.flac
+----------------------------------------
+ 160. 文件名: 周杰伦 - 七里香.flac
+     类型: .flac
+     大小: 34.35 MB (36019757 字节)
+     修改时间: 2026-01-21 15:54:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 - 七里香.flac
+----------------------------------------
+ 161. 文件名: 周杰伦 - 兰亭序.flac
+     类型: .flac
+     大小: 27.19 MB (28508283 字节)
+     修改时间: 2026-01-21 15:54:23
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 - 兰亭序.flac
+----------------------------------------
+ 162. 文件名: 周杰伦 - 搁浅.flac
+     类型: .flac
+     大小: 25.13 MB (26348709 字节)
+     修改时间: 2026-01-21 15:54:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 - 搁浅.flac
+----------------------------------------
+ 163. 文件名: 周杰伦 - 甜甜的.flac
+     类型: .flac
+     大小: 28.63 MB (30018857 字节)
+     修改时间: 2026-01-21 17:31:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 - 甜甜的.flac
+----------------------------------------
+ 164. 文件名: 周杰伦 - 白色风车.flac
+     类型: .flac
+     大小: 31.43 MB (32958138 字节)
+     修改时间: 2026-01-21 15:54:24
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 - 白色风车.flac
+----------------------------------------
+ 165. 文件名: 周杰伦 - 说好不哭 (with 五月天阿信).flac
+     类型: .flac
+     大小: 41.96 MB (43995940 字节)
+     修改时间: 2026-01-21 15:54:26
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 - 说好不哭 (with 五月天阿信).flac
+----------------------------------------
+ 166. 文件名: 周杰伦 - 说好的幸福呢.flac
+     类型: .flac
+     大小: 25.96 MB (27225496 字节)
+     修改时间: 2026-01-21 15:54:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 - 说好的幸福呢.flac
+----------------------------------------
+ 167. 文件名: 周杰伦 _ 张惠妹 - 不该 (with aMEI).flac
+     类型: .flac
+     大小: 59.73 MB (62626582 字节)
+     修改时间: 2026-01-21 15:54:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\周杰伦 _ 张惠妹 - 不该 (with aMEI).flac
+----------------------------------------
+ 168. 文件名: 周林枫 - 忘了.flac
+     类型: .flac
+     大小: 38.49 MB (40362671 字节)
+     修改时间: 2026-01-21 15:54:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\周林枫 - 忘了.flac
+----------------------------------------
+ 169. 文件名: 周深 - 光字片.flac
+     类型: .flac
+     大小: 25.26 MB (26491148 字节)
+     修改时间: 2026-01-21 15:54:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\周深 - 光字片.flac
+----------------------------------------
+ 170. 文件名: 哗啦啦少年再见-焦迈奇.flac
+     类型: .flac
+     大小: 50.04 MB (52474253 字节)
+     修改时间: 2026-01-21 17:25:28
+     完整路径: C:\Users\MI\Music\music_qq\Music\哗啦啦少年再见-焦迈奇.flac
+----------------------------------------
+ 171. 文件名: 喜欢你-G_E_M_ 邓紫棋.flac
+     类型: .flac
+     大小: 27.22 MB (28541036 字节)
+     修改时间: 2026-01-21 17:26:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\喜欢你-G_E_M_ 邓紫棋.flac
+----------------------------------------
+ 172. 文件名: 喜欢到不喜欢为止-林子祺Liam7 _ 凌奈.flac
+     类型: .flac
+     大小: 23.73 MB (24878369 字节)
+     修改时间: 2026-01-21 17:26:37
+     完整路径: C:\Users\MI\Music\music_qq\Music\喜欢到不喜欢为止-林子祺Liam7 _ 凌奈.flac
+----------------------------------------
+ 173. 文件名: 喜欢到不喜欢为止-林子祺Liam7_凌奈.mp3
+     类型: .mp3
+     大小: 3.31 MB (3475882 字节)
+     修改时间: 2026-01-21 15:06:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\喜欢到不喜欢为止-林子祺Liam7_凌奈.mp3
+----------------------------------------
+ 174. 文件名: 四季予你-程响.flac
+     类型: .flac
+     大小: 24.28 MB (25458650 字节)
+     修改时间: 2026-01-21 17:26:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\四季予你-程响.flac
+----------------------------------------
+ 175. 文件名: 四方-水木年华.flac
+     类型: .flac
+     大小: 55.72 MB (58430856 字节)
+     修改时间: 2026-01-21 17:26:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\四方-水木年华.flac
+----------------------------------------
+ 176. 文件名: 回头看轻舟已过万重山-卢润泽.flac
+     类型: .flac
+     大小: 41.23 MB (43233854 字节)
+     修改时间: 2026-01-21 17:25:29
+     完整路径: C:\Users\MI\Music\music_qq\Music\回头看轻舟已过万重山-卢润泽.flac
+----------------------------------------
+ 177. 文件名: 在他乡-水木年华.flac
+     类型: .flac
+     大小: 25.36 MB (26596533 字节)
+     修改时间: 2026-01-21 17:31:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\在他乡-水木年华.flac
+----------------------------------------
+ 178. 文件名: 在那天回不去的路上-薛之谦.mp3
+     类型: .mp3
+     大小: 9.77 MB (10242443 字节)
+     修改时间: 2026-01-21 15:06:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\在那天回不去的路上-薛之谦.mp3
+----------------------------------------
+ 179. 文件名: 在雨中-汪峰.flac
+     类型: .flac
+     大小: 31.93 MB (33480707 字节)
+     修改时间: 2026-01-21 17:27:01
+     完整路径: C:\Users\MI\Music\music_qq\Music\在雨中-汪峰.flac
+----------------------------------------
+ 180. 文件名: 地铁等待-叶辰.flac
+     类型: .flac
+     大小: 23.68 MB (24835342 字节)
+     修改时间: 2026-01-21 17:25:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\地铁等待-叶辰.flac
+----------------------------------------
+ 181. 文件名: 地铁等待-张紫豪.mp3
+     类型: .mp3
+     大小: 9.23 MB (9674022 字节)
+     修改时间: 2026-01-21 17:25:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\地铁等待-张紫豪.mp3
+----------------------------------------
+ 182. 文件名: 夏天-李玖哲.flac
+     类型: .flac
+     大小: 26.41 MB (27689700 字节)
+     修改时间: 2026-01-21 17:26:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\夏天-李玖哲.flac
+----------------------------------------
+ 183. 文件名: 夏日入侵企画 - 第一万零一次告白.flac
+     类型: .flac
+     大小: 69.71 MB (73097201 字节)
+     修改时间: 2026-01-21 15:54:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\夏日入侵企画 - 第一万零一次告白.flac
+----------------------------------------
+ 184. 文件名: 夜空中最亮的星-逃跑计划.flac
+     类型: .flac
+     大小: 30.9 MB (32399279 字节)
+     修改时间: 2026-01-21 17:26:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\夜空中最亮的星-逃跑计划.flac
+----------------------------------------
+ 185. 文件名: 大表哥Sophie - 偏向 (百万赞版).flac
+     类型: .flac
+     大小: 38.31 MB (40171996 字节)
+     修改时间: 2026-01-21 15:53:35
+     完整路径: C:\Users\MI\Music\music_qq\Music\大表哥Sophie - 偏向 (百万赞版).flac
+----------------------------------------
+ 186. 文件名: 天下-张杰.flac
+     类型: .flac
+     大小: 47.77 MB (50094679 字节)
+     修改时间: 2026-01-21 17:26:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\天下-张杰.flac
+----------------------------------------
+ 187. 文件名: 天亮以前说再见 (雪花多舍不得冬天)-四熹丸子.flac
+     类型: .flac
+     大小: 23.51 MB (24651468 字节)
+     修改时间: 2026-01-21 17:26:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\天亮以前说再见 (雪花多舍不得冬天)-四熹丸子.flac
+----------------------------------------
+ 188. 文件名: 天亮以前说再见-何野.flac
+     类型: .flac
+     大小: 26.82 MB (28126916 字节)
+     修改时间: 2026-01-21 17:26:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\天亮以前说再见-何野.flac
+----------------------------------------
+ 189. 文件名: 天时地利的迷信-亦伊.flac
+     类型: .flac
+     大小: 39.08 MB (40978502 字节)
+     修改时间: 2026-01-21 17:26:21
+     完整路径: C:\Users\MI\Music\music_qq\Music\天时地利的迷信-亦伊.flac
+----------------------------------------
+ 190. 文件名: 天空之外 (季风吹向大海)-曹杨.flac
+     类型: .flac
+     大小: 59.5 MB (62386843 字节)
+     修改时间: 2026-01-21 17:26:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\天空之外 (季风吹向大海)-曹杨.flac
+----------------------------------------
+ 191. 文件名: 天空之外-弦子.mp3
+     类型: .mp3
+     大小: 11.62 MB (12181239 字节)
+     修改时间: 2026-01-21 15:06:28
+     完整路径: C:\Users\MI\Music\music_qq\Music\天空之外-弦子.mp3
+----------------------------------------
+ 192. 文件名: 头不疼 - 直行不转弯 (说不通的谎言).flac
+     类型: .flac
+     大小: 19.1 MB (20022787 字节)
+     修改时间: 2026-01-21 15:54:01
+     完整路径: C:\Users\MI\Music\music_qq\Music\头不疼 - 直行不转弯 (说不通的谎言).flac
+----------------------------------------
+ 193. 文件名: 奔跑-羽泉.flac
+     类型: .flac
+     大小: 26.59 MB (27886791 字节)
+     修改时间: 2026-01-21 17:24:58
+     完整路径: C:\Users\MI\Music\music_qq\Music\奔跑-羽泉.flac
+----------------------------------------
+ 194. 文件名: 如一-不是花火呀 _ 小田音乐社.flac
+     类型: .flac
+     大小: 51.88 MB (54400324 字节)
+     修改时间: 2026-01-21 17:26:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\如一-不是花火呀 _ 小田音乐社.flac
+----------------------------------------
+ 195. 文件名: 如一-不是花火呀_小田音乐社.mp3
+     类型: .mp3
+     大小: 10.07 MB (10563597 字节)
+     修改时间: 2026-01-21 15:06:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\如一-不是花火呀_小田音乐社.mp3
+----------------------------------------
+ 196. 文件名: 如果这都不算爱-伍佰 & China Blue.flac
+     类型: .flac
+     大小: 32.51 MB (34087752 字节)
+     修改时间: 2026-01-21 17:26:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\如果这都不算爱-伍佰 & China Blue.flac
+----------------------------------------
+ 197. 文件名: 如果这都不算爱-张学友.mp3
+     类型: .mp3
+     大小: 8.3 MB (8698098 字节)
+     修改时间: 2026-01-21 15:06:24
+     完整路径: C:\Users\MI\Music\music_qq\Music\如果这都不算爱-张学友.mp3
+----------------------------------------
+ 198. 文件名: 如约而至-许嵩.flac
+     类型: .flac
+     大小: 27.85 MB (29204270 字节)
+     修改时间: 2026-01-21 17:26:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\如约而至-许嵩.flac
+----------------------------------------
+ 199. 文件名: 妈妈的话-Zyboy忠宇.flac
+     类型: .flac
+     大小: 33.82 MB (35460473 字节)
+     修改时间: 2026-01-21 17:25:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\妈妈的话-Zyboy忠宇.flac
+----------------------------------------
+ 200. 文件名: 姜蔓 - 死结.flac
+     类型: .flac
+     大小: 49.34 MB (51740393 字节)
+     修改时间: 2026-01-21 15:53:41
+     完整路径: C:\Users\MI\Music\music_qq\Music\姜蔓 - 死结.flac
+----------------------------------------
+ 201. 文件名: 孙燕姿 - 我怀念的.flac
+     类型: .flac
+     大小: 28.8 MB (30195430 字节)
+     修改时间: 2026-01-21 15:54:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\孙燕姿 - 我怀念的.flac
+----------------------------------------
+ 202. 文件名: 孙燕姿 - 遇见.flac
+     类型: .flac
+     大小: 19.34 MB (20282756 字节)
+     修改时间: 2026-01-21 15:54:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\孙燕姿 - 遇见.flac
+----------------------------------------
+ 203. 文件名: 孤独-G.E.M. 邓紫棋.mp3
+     类型: .mp3
+     大小: 9.22 MB (9662831 字节)
+     修改时间: 2026-01-21 15:06:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\孤独-G.E.M. 邓紫棋.mp3
+----------------------------------------
+ 204. 文件名: 孤独-G_E_M_ 邓紫棋.flac
+     类型: .flac
+     大小: 46.84 MB (49119400 字节)
+     修改时间: 2026-01-21 17:25:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\孤独-G_E_M_ 邓紫棋.flac
+----------------------------------------
+ 205. 文件名: 安和桥-宇西.flac
+     类型: .flac
+     大小: 18.89 MB (19802390 字节)
+     修改时间: 2026-01-21 17:30:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\安和桥-宇西.flac
+----------------------------------------
+ 206. 文件名: 安和桥-宋冬野.mp3
+     类型: .mp3
+     大小: 3.94 MB (4131879 字节)
+     修改时间: 2026-01-21 15:05:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\安和桥-宋冬野.mp3
+----------------------------------------
+ 207. 文件名: 宋亚轩 - 5_23PM.flac
+     类型: .flac
+     大小: 42.4 MB (44459098 字节)
+     修改时间: 2026-01-21 15:53:57
+     完整路径: C:\Users\MI\Music\music_qq\Music\宋亚轩 - 5_23PM.flac
+----------------------------------------
+ 208. 文件名: 宋佳野 - 两三句 (趁着灯火不算清晰).flac
+     类型: .flac
+     大小: 43.98 MB (46118509 字节)
+     修改时间: 2026-01-21 15:53:57
+     完整路径: C:\Users\MI\Music\music_qq\Music\宋佳野 - 两三句 (趁着灯火不算清晰).flac
+----------------------------------------
+ 209. 文件名: 完美生活-许巍.flac
+     类型: .flac
+     大小: 31.52 MB (33053156 字节)
+     修改时间: 2026-01-21 17:26:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\完美生活-许巍.flac
+----------------------------------------
+ 210. 文件名: 宝石Gem _ 一哩哩一 - 执子之手.flac
+     类型: .flac
+     大小: 41.95 MB (43991829 字节)
+     修改时间: 2026-01-21 15:53:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\宝石Gem _ 一哩哩一 - 执子之手.flac
+----------------------------------------
+ 211. 文件名: 家家 - 命运.flac
+     类型: .flac
+     大小: 22.78 MB (23886637 字节)
+     修改时间: 2026-01-21 15:53:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\家家 - 命运.flac
+----------------------------------------
+ 212. 文件名: 容祖儿 - 习惯失恋.flac
+     类型: .flac
+     大小: 23.77 MB (24929650 字节)
+     修改时间: 2026-01-21 15:53:56
+     完整路径: C:\Users\MI\Music\music_qq\Music\容祖儿 - 习惯失恋.flac
+----------------------------------------
+ 213. 文件名: 容祖儿 - 就让这大雨全都落下.flac
+     类型: .flac
+     大小: 53.47 MB (56071465 字节)
+     修改时间: 2026-01-21 15:53:57
+     完整路径: C:\Users\MI\Music\music_qq\Music\容祖儿 - 就让这大雨全都落下.flac
+----------------------------------------
+ 214. 文件名: 寂寞沙洲冷-周传雄.flac
+     类型: .flac
+     大小: 30.96 MB (32458753 字节)
+     修改时间: 2026-01-21 17:25:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\寂寞沙洲冷-周传雄.flac
+----------------------------------------
+ 215. 文件名: 富士山下-陈奕迅.mp3
+     类型: .mp3
+     大小: 10.28 MB (10777132 字节)
+     修改时间: 2026-01-21 15:06:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\富士山下-陈奕迅.mp3
+----------------------------------------
+ 216. 文件名: 将故事写成我们-林俊杰.mp3
+     类型: .mp3
+     大小: 13.69 MB (14359616 字节)
+     修改时间: 2026-01-21 15:06:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\将故事写成我们-林俊杰.mp3
+----------------------------------------
+ 217. 文件名: 小丑-毛不易.flac
+     类型: .flac
+     大小: 48.3 MB (50650951 字节)
+     修改时间: 2026-01-21 17:26:44
+     完整路径: C:\Users\MI\Music\music_qq\Music\小丑-毛不易.flac
+----------------------------------------
+ 218. 文件名: 小乐哥（王唯乐） - 执迷不悟.flac
+     类型: .flac
+     大小: 22.65 MB (23746854 字节)
+     修改时间: 2026-01-21 15:54:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\小乐哥（王唯乐） - 执迷不悟.flac
+----------------------------------------
+ 219. 文件名: 小城南北-林童学.flac
+     类型: .flac
+     大小: 25.98 MB (27240265 字节)
+     修改时间: 2026-01-21 17:26:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\小城南北-林童学.flac
+----------------------------------------
+ 220. 文件名: 小城夏天-LBI利比（时柏尘）.flac
+     类型: .flac
+     大小: 36.98 MB (38775861 字节)
+     修改时间: 2026-01-21 17:26:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\小城夏天-LBI利比（时柏尘）.flac
+----------------------------------------
+ 221. 文件名: 小霞 _ 海洋Bo - 向云端.flac
+     类型: .flac
+     大小: 50.85 MB (53318820 字节)
+     修改时间: 2026-01-21 15:54:12
+     完整路径: C:\Users\MI\Music\music_qq\Music\小霞 _ 海洋Bo - 向云端.flac
+----------------------------------------
+ 222. 文件名: 少年赋（万里扶摇）-良良木 _ 吕帅.flac
+     类型: .flac
+     大小: 27.08 MB (28399694 字节)
+     修改时间: 2026-01-21 17:26:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\少年赋（万里扶摇）-良良木 _ 吕帅.flac
+----------------------------------------
+ 223. 文件名: 少年赋（万里扶摇）-良良木_吕帅.mp3
+     类型: .mp3
+     大小: 5.12 MB (5372251 字节)
+     修改时间: 2026-01-21 15:06:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\少年赋（万里扶摇）-良良木_吕帅.mp3
+----------------------------------------
+ 224. 文件名: 就是南方凯 - 离别开出花 (弹唱版).flac
+     类型: .flac
+     大小: 20.12 MB (21099263 字节)
+     修改时间: 2026-01-21 15:53:44
+     完整路径: C:\Users\MI\Music\music_qq\Music\就是南方凯 - 离别开出花 (弹唱版).flac
+----------------------------------------
+ 225. 文件名: 山风-徐剑秋_自游诗.mp3
+     类型: .mp3
+     大小: 8.83 MB (9263284 字节)
+     修改时间: 2026-01-21 15:06:23
+     完整路径: C:\Users\MI\Music\music_qq\Music\山风-徐剑秋_自游诗.mp3
+----------------------------------------
+ 226. 文件名: 山风-阿冗.flac
+     类型: .flac
+     大小: 21.64 MB (22690909 字节)
+     修改时间: 2026-01-21 17:26:12
+     完整路径: C:\Users\MI\Music\music_qq\Music\山风-阿冗.flac
+----------------------------------------
+ 227. 文件名: 平凡之路 (DJ版)-苏以沫.flac
+     类型: .flac
+     大小: 11.51 MB (12065070 字节)
+     修改时间: 2026-01-21 17:26:03
+     完整路径: C:\Users\MI\Music\music_qq\Music\平凡之路 (DJ版)-苏以沫.flac
+----------------------------------------
+ 228. 文件名: 平凡之路-朴树.mp3
+     类型: .mp3
+     大小: 12.32 MB (12921891 字节)
+     修改时间: 2026-01-21 15:06:19
+     完整路径: C:\Users\MI\Music\music_qq\Music\平凡之路-朴树.mp3
+----------------------------------------
+ 229. 文件名: 平行宇宙-许嵩.flac
+     类型: .flac
+     大小: 21.48 MB (22526377 字节)
+     修改时间: 2026-01-21 17:26:03
+     完整路径: C:\Users\MI\Music\music_qq\Music\平行宇宙-许嵩.flac
+----------------------------------------
+ 230. 文件名: 年少有为-李荣浩.mp3
+     类型: .mp3
+     大小: 4.84 MB (5071427 字节)
+     修改时间: 2026-01-21 15:06:16
+     完整路径: C:\Users\MI\Music\music_qq\Music\年少有为-李荣浩.mp3
+----------------------------------------
+ 231. 文件名: 异客 (Live)-杨坤 _ 王赫野 _ 王睿卓.flac
+     类型: .flac
+     大小: 26.54 MB (27832164 字节)
+     修改时间: 2026-01-21 17:31:44
+     完整路径: C:\Users\MI\Music\music_qq\Music\异客 (Live)-杨坤 _ 王赫野 _ 王睿卓.flac
+----------------------------------------
+ 232. 文件名: 异客-杨坤_王赫野.mp3
+     类型: .mp3
+     大小: 8.88 MB (9309420 字节)
+     修改时间: 2026-01-21 15:06:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\异客-杨坤_王赫野.mp3
+----------------------------------------
+ 233. 文件名: 弋川 _ 庄淇玟29 - 单人生活.flac
+     类型: .flac
+     大小: 69.89 MB (73283485 字节)
+     修改时间: 2026-01-21 15:54:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\弋川 _ 庄淇玟29 - 单人生活.flac
+----------------------------------------
+ 234. 文件名: 弋川 _ 陈奕楠 - 就这样甘心吗.flac
+     类型: .flac
+     大小: 52.58 MB (55138553 字节)
+     修改时间: 2026-01-21 15:54:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\弋川 _ 陈奕楠 - 就这样甘心吗.flac
+----------------------------------------
+ 235. 文件名: 张妙格 - 我期待的不是雪 (而是有你的冬天).flac
+     类型: .flac
+     大小: 33.92 MB (35568771 字节)
+     修改时间: 2026-01-21 15:54:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\张妙格 - 我期待的不是雪 (而是有你的冬天).flac
+----------------------------------------
+ 236. 文件名: 张杰 - 你就不要想起我 (Live).flac
+     类型: .flac
+     大小: 32.82 MB (34409022 字节)
+     修改时间: 2026-01-21 15:54:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\张杰 - 你就不要想起我 (Live).flac
+----------------------------------------
+ 237. 文件名: 张杰 - 勿忘心安.flac
+     类型: .flac
+     大小: 51.81 MB (54325588 字节)
+     修改时间: 2026-01-21 15:54:19
+     完整路径: C:\Users\MI\Music\music_qq\Music\张杰 - 勿忘心安.flac
+----------------------------------------
+ 238. 文件名: 张碧晨 - 年轮.flac
+     类型: .flac
+     大小: 28.83 MB (30225831 字节)
+     修改时间: 2026-01-21 15:54:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\张碧晨 - 年轮.flac
+----------------------------------------
+ 239. 文件名: 张碧晨 - 笼.flac
+     类型: .flac
+     大小: 29.08 MB (30489084 字节)
+     修改时间: 2026-01-21 15:54:19
+     完整路径: C:\Users\MI\Music\music_qq\Music\张碧晨 - 笼.flac
+----------------------------------------
+ 240. 文件名: 张紫豪 - 可不可以.flac
+     类型: .flac
+     大小: 26.26 MB (27533993 字节)
+     修改时间: 2026-01-21 15:54:21
+     完整路径: C:\Users\MI\Music\music_qq\Music\张紫豪 - 可不可以.flac
+----------------------------------------
+ 241. 文件名: 张芸京 - 偏爱.flac
+     类型: .flac
+     大小: 25.22 MB (26440368 字节)
+     修改时间: 2026-01-21 15:54:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\张芸京 - 偏爱.flac
+----------------------------------------
+ 242. 文件名: 张远 - 嘉宾.flac
+     类型: .flac
+     大小: 63.97 MB (67073342 字节)
+     修改时间: 2026-01-21 15:54:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\张远 - 嘉宾.flac
+----------------------------------------
+ 243. 文件名: 弱水三千-周传雄.flac
+     类型: .flac
+     大小: 37.48 MB (39303530 字节)
+     修改时间: 2026-01-21 17:26:12
+     完整路径: C:\Users\MI\Music\music_qq\Music\弱水三千-周传雄.flac
+----------------------------------------
+ 244. 文件名: 弱水三千-苏熠鸣.mp3
+     类型: .mp3
+     大小: 3.38 MB (3540525 字节)
+     修改时间: 2026-01-21 15:06:23
+     完整路径: C:\Users\MI\Music\music_qq\Music\弱水三千-苏熠鸣.mp3
+----------------------------------------
+ 245. 文件名: 当你-林俊杰.flac
+     类型: .flac
+     大小: 27.73 MB (29076843 字节)
+     修改时间: 2026-01-21 17:25:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\当你-林俊杰.flac
+----------------------------------------
+ 246. 文件名: 当你孤单你会想起谁-张栋梁.flac
+     类型: .flac
+     大小: 27.4 MB (28730600 字节)
+     修改时间: 2026-01-21 17:25:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\当你孤单你会想起谁-张栋梁.flac
+----------------------------------------
+ 247. 文件名: 当爱在靠近-半吨兄弟.flac
+     类型: .flac
+     大小: 48.99 MB (51366720 字节)
+     修改时间: 2026-01-21 17:25:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\当爱在靠近-半吨兄弟.flac
+----------------------------------------
+ 248. 文件名: 彭宇昕Chloe - 星星永远发着光.flac
+     类型: .flac
+     大小: 40.32 MB (42279691 字节)
+     修改时间: 2026-01-21 15:53:54
+     完整路径: C:\Users\MI\Music\music_qq\Music\彭宇昕Chloe - 星星永远发着光.flac
+----------------------------------------
+ 249. 文件名: 很难-张震岳.flac
+     类型: .flac
+     大小: 28.22 MB (29589356 字节)
+     修改时间: 2026-01-21 17:25:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\很难-张震岳.flac
+----------------------------------------
+ 250. 文件名: 徐秉龙 - 孤身.flac
+     类型: .flac
+     大小: 42.44 MB (44500675 字节)
+     修改时间: 2026-01-21 15:54:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\徐秉龙 - 孤身.flac
+----------------------------------------
+ 251. 文件名: 心中的日月-王力宏.mp3
+     类型: .mp3
+     大小: 9.25 MB (9703410 字节)
+     修改时间: 2026-01-21 15:06:36
+     完整路径: C:\Users\MI\Music\music_qq\Music\心中的日月-王力宏.mp3
+----------------------------------------
+ 252. 文件名: 心中的日月-王睿卓.flac
+     类型: .flac
+     大小: 46.15 MB (48391416 字节)
+     修改时间: 2026-01-21 17:26:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\心中的日月-王睿卓.flac
+----------------------------------------
+ 253. 文件名: 忘记时间-胡歌.flac
+     类型: .flac
+     大小: 27.01 MB (28320195 字节)
+     修改时间: 2026-01-21 17:26:30
+     完整路径: C:\Users\MI\Music\music_qq\Music\忘记时间-胡歌.flac
+----------------------------------------
+ 254. 文件名: 忽远忽近-王唯一.flac
+     类型: .flac
+     大小: 43.0 MB (45086170 字节)
+     修改时间: 2026-01-21 17:25:26
+     完整路径: C:\Users\MI\Music\music_qq\Music\忽远忽近-王唯一.flac
+----------------------------------------
+ 255. 文件名: 思念是一种病-张震岳 _ 蔡健雅.flac
+     类型: .flac
+     大小: 27.99 MB (29352269 字节)
+     修改时间: 2026-01-21 17:26:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\思念是一种病-张震岳 _ 蔡健雅.flac
+----------------------------------------
+ 256. 文件名: 思念是一种病-张震岳_蔡健雅.mp3
+     类型: .mp3
+     大小: 10.04 MB (10523544 字节)
+     修改时间: 2026-01-21 15:06:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\思念是一种病-张震岳_蔡健雅.mp3
+----------------------------------------
+ 257. 文件名: 恋恋风尘-程璧.mp3
+     类型: .mp3
+     大小: 4.7 MB (4927381 字节)
+     修改时间: 2026-01-21 15:06:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\恋恋风尘-程璧.mp3
+----------------------------------------
+ 258. 文件名: 情非得已-庾澄庆.flac
+     类型: .flac
+     大小: 29.09 MB (30499055 字节)
+     修改时间: 2026-01-21 17:26:04
+     完整路径: C:\Users\MI\Music\music_qq\Music\情非得已-庾澄庆.flac
+----------------------------------------
+ 259. 文件名: 想念 (Rehearsal Version)-梁博.flac
+     类型: .flac
+     大小: 38.68 MB (40554449 字节)
+     修改时间: 2026-01-21 17:26:41
+     完整路径: C:\Users\MI\Music\music_qq\Music\想念 (Rehearsal Version)-梁博.flac
+----------------------------------------
+ 260. 文件名: 想念-梁博.mp3
+     类型: .mp3
+     大小: 15.24 MB (15975214 字节)
+     修改时间: 2026-01-21 15:06:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\想念-梁博.mp3
+----------------------------------------
+ 261. 文件名: 想某人 (合唱版)-白嘉峻 _ 王优秀.flac
+     类型: .flac
+     大小: 44.78 MB (46952778 字节)
+     修改时间: 2026-01-21 17:26:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\想某人 (合唱版)-白嘉峻 _ 王优秀.flac
+----------------------------------------
+ 262. 文件名: 想某人-王优秀.mp3
+     类型: .mp3
+     大小: 9.86 MB (10334771 字节)
+     修改时间: 2026-01-21 15:06:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\想某人-王优秀.mp3
+----------------------------------------
+ 263. 文件名: 想象之中-许嵩.flac
+     类型: .flac
+     大小: 25.24 MB (26467472 字节)
+     修改时间: 2026-01-21 17:26:42
+     完整路径: C:\Users\MI\Music\music_qq\Music\想象之中-许嵩.flac
+----------------------------------------
+ 264. 文件名: 意外-薛之谦.flac
+     类型: .flac
+     大小: 33.49 MB (35116703 字节)
+     修改时间: 2026-01-21 17:26:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\意外-薛之谦.flac
+----------------------------------------
+ 265. 文件名: 成都-赵雷.flac
+     类型: .flac
+     大小: 32.15 MB (33712238 字节)
+     修改时间: 2026-01-21 17:25:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\成都-赵雷.flac
+----------------------------------------
+ 266. 文件名: 我们都一样 (回忆版)-张杰.flac
+     类型: .flac
+     大小: 51.62 MB (54129675 字节)
+     修改时间: 2026-01-21 17:26:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\我们都一样 (回忆版)-张杰.flac
+----------------------------------------
+ 267. 文件名: 我们都一样-张杰.mp3
+     类型: .mp3
+     大小: 4.33 MB (4535625 字节)
+     修改时间: 2026-01-21 15:06:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\我们都一样-张杰.mp3
+----------------------------------------
+ 268. 文件名: 我的纸飞机-GooGoo _ 王之睿.flac
+     类型: .flac
+     大小: 39.96 MB (41897427 字节)
+     修改时间: 2026-01-21 17:26:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\我的纸飞机-GooGoo _ 王之睿.flac
+----------------------------------------
+ 269. 文件名: 我的纸飞机-GooGoo.mp3
+     类型: .mp3
+     大小: 7.6 MB (7968565 字节)
+     修改时间: 2026-01-21 15:06:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\我的纸飞机-GooGoo.mp3
+----------------------------------------
+ 270. 文件名: 我知道你都知道-薛之谦.flac
+     类型: .flac
+     大小: 27.8 MB (29151672 字节)
+     修改时间: 2026-01-21 17:26:35
+     完整路径: C:\Users\MI\Music\music_qq\Music\我知道你都知道-薛之谦.flac
+----------------------------------------
+ 271. 文件名: 手放开-李圣杰.flac
+     类型: .flac
+     大小: 29.34 MB (30768031 字节)
+     修改时间: 2026-01-21 17:26:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\手放开-李圣杰.flac
+----------------------------------------
+ 272. 文件名: 打火机-Penny.flac
+     类型: .flac
+     大小: 27.93 MB (29285336 字节)
+     修改时间: 2026-01-21 17:25:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\打火机-Penny.flac
+----------------------------------------
+ 273. 文件名: 执迷不悟-小乐哥（王唯乐）.flac
+     类型: .flac
+     大小: 22.65 MB (23746854 字节)
+     修改时间: 2026-01-21 17:27:03
+     完整路径: C:\Users\MI\Music\music_qq\Music\执迷不悟-小乐哥（王唯乐）.flac
+----------------------------------------
+ 274. 文件名: 承桓 - 我会等.flac
+     类型: .flac
+     大小: 38.11 MB (39962408 字节)
+     修改时间: 2026-01-21 15:53:31
+     完整路径: C:\Users\MI\Music\music_qq\Music\承桓 - 我会等.flac
+----------------------------------------
+ 275. 文件名: 把回忆拼好给你-cici_.flac
+     类型: .flac
+     大小: 39.78 MB (41710506 字节)
+     修改时间: 2026-01-21 17:30:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\把回忆拼好给你-cici_.flac
+----------------------------------------
+ 276. 文件名: 拯救-孙楠.flac
+     类型: .flac
+     大小: 36.68 MB (38466953 字节)
+     修改时间: 2026-01-21 17:27:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\拯救-孙楠.flac
+----------------------------------------
+ 277. 文件名: 挪威的森林-伍佰 & China Blue.flac
+     类型: .flac
+     大小: 43.17 MB (45266223 字节)
+     修改时间: 2026-01-21 17:25:57
+     完整路径: C:\Users\MI\Music\music_qq\Music\挪威的森林-伍佰 & China Blue.flac
+----------------------------------------
+ 278. 文件名: 摄影艺术-许嵩.flac
+     类型: .flac
+     大小: 31.05 MB (32562117 字节)
+     修改时间: 2026-01-21 17:26:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\摄影艺术-许嵩.flac
+----------------------------------------
+ 279. 文件名: 放飞-许嵩.flac
+     类型: .flac
+     大小: 45.93 MB (48157043 字节)
+     修改时间: 2026-01-21 17:25:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\放飞-许嵩.flac
+----------------------------------------
+ 280. 文件名: 断点-张敬轩.flac
+     类型: .flac
+     大小: 27.38 MB (28711023 字节)
+     修改时间: 2026-01-21 17:25:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\断点-张敬轩.flac
+----------------------------------------
+ 281. 文件名: 方大同 - 特别的人.flac
+     类型: .flac
+     大小: 26.82 MB (28118177 字节)
+     修改时间: 2026-01-21 15:53:36
+     完整路径: C:\Users\MI\Music\music_qq\Music\方大同 - 特别的人.flac
+----------------------------------------
+ 282. 文件名: 方大同 - 麦恩莉.flac
+     类型: .flac
+     大小: 29.84 MB (31292629 字节)
+     修改时间: 2026-01-21 15:53:36
+     完整路径: C:\Users\MI\Music\music_qq\Music\方大同 - 麦恩莉.flac
+----------------------------------------
+ 283. 文件名: 无数-薛之谦.mp3
+     类型: .mp3
+     大小: 13.74 MB (14403068 字节)
+     修改时间: 2026-01-21 15:06:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\无数-薛之谦.mp3
+----------------------------------------
+ 284. 文件名: 旺仔小乔 - 如果爱忘了.flac
+     类型: .flac
+     大小: 43.49 MB (45604834 字节)
+     修改时间: 2026-01-21 15:54:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\旺仔小乔 - 如果爱忘了.flac
+----------------------------------------
+ 285. 文件名: 明天过后-张杰.flac
+     类型: .flac
+     大小: 43.01 MB (45099712 字节)
+     修改时间: 2026-01-21 17:25:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\明天过后-张杰.flac
+----------------------------------------
+ 286. 文件名: 星火社 - 堕 (合唱版).flac
+     类型: .flac
+     大小: 23.41 MB (24546519 字节)
+     修改时间: 2026-01-21 15:54:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\星火社 - 堕 (合唱版).flac
+----------------------------------------
+ 287. 文件名: 春天里 (2017新编曲版)-汪峰.flac
+     类型: .flac
+     大小: 57.91 MB (60723986 字节)
+     修改时间: 2026-01-21 17:25:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\春天里 (2017新编曲版)-汪峰.flac
+----------------------------------------
+ 288. 文件名: 春天里-汪峰.flac
+     类型: .flac
+     大小: 32.03 MB (33586633 字节)
+     修改时间: 2026-01-21 17:25:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\春天里-汪峰.flac
+----------------------------------------
+ 289. 文件名: 春泥-庾澄庆.flac
+     类型: .flac
+     大小: 26.68 MB (27976656 字节)
+     修改时间: 2026-01-21 17:25:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\春泥-庾澄庆.flac
+----------------------------------------
+ 290. 文件名: 春雨里洗过的太阳-王力宏.flac
+     类型: .flac
+     大小: 31.03 MB (32537407 字节)
+     修改时间: 2026-01-21 17:25:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\春雨里洗过的太阳-王力宏.flac
+----------------------------------------
+ 291. 文件名: 是否-程响.flac
+     类型: .flac
+     大小: 44.14 MB (46284276 字节)
+     修改时间: 2026-01-21 17:26:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\是否-程响.flac
+----------------------------------------
+ 292. 文件名: 晴天-周杰伦.flac
+     类型: .flac
+     大小: 53.07 MB (55649909 字节)
+     修改时间: 2026-01-21 17:26:02
+     完整路径: C:\Users\MI\Music\music_qq\Music\晴天-周杰伦.flac
+----------------------------------------
+ 293. 文件名: 暗号-周杰伦.flac
+     类型: .flac
+     大小: 28.72 MB (30110855 字节)
+     修改时间: 2026-01-21 17:30:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\暗号-周杰伦.flac
+----------------------------------------
+ 294. 文件名: 曹雨航 _ 朝歌夜弦 - 江湖之间.flac
+     类型: .flac
+     大小: 43.75 MB (45880248 字节)
+     修改时间: 2026-01-21 15:53:28
+     完整路径: C:\Users\MI\Music\music_qq\Music\曹雨航 _ 朝歌夜弦 - 江湖之间.flac
+----------------------------------------
+ 295. 文件名: 曾经的你-许巍.flac
+     类型: .flac
+     大小: 28.91 MB (30318994 字节)
+     修改时间: 2026-01-21 17:30:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\曾经的你-许巍.flac
+----------------------------------------
+ 296. 文件名: 有何不可-许嵩.flac
+     类型: .flac
+     大小: 27.43 MB (28760440 字节)
+     修改时间: 2026-01-21 17:26:59
+     完整路径: C:\Users\MI\Music\music_qq\Music\有何不可-许嵩.flac
+----------------------------------------
+ 297. 文件名: 有形的翅膀-张韶涵.flac
+     类型: .flac
+     大小: 22.9 MB (24014045 字节)
+     修改时间: 2026-01-21 17:26:58
+     完整路径: C:\Users\MI\Music\music_qq\Music\有形的翅膀-张韶涵.flac
+----------------------------------------
+ 298. 文件名: 有没有一首歌会让你想起我-周传雄.flac
+     类型: .flac
+     大小: 29.55 MB (30987180 字节)
+     修改时间: 2026-01-21 17:26:57
+     完整路径: C:\Users\MI\Music\music_qq\Music\有没有一首歌会让你想起我-周传雄.flac
+----------------------------------------
+ 299. 文件名: 有没有一首歌会让你想起我-周华健.mp3
+     类型: .mp3
+     大小: 11.33 MB (11884145 字节)
+     修改时间: 2026-01-21 15:06:44
+     完整路径: C:\Users\MI\Music\music_qq\Music\有没有一首歌会让你想起我-周华健.mp3
+----------------------------------------
+ 300. 文件名: 有点甜-汪苏泷 _ BY2.flac
+     类型: .flac
+     大小: 25.55 MB (26792556 字节)
+     修改时间: 2026-01-21 17:26:58
+     完整路径: C:\Users\MI\Music\music_qq\Music\有点甜-汪苏泷 _ BY2.flac
+----------------------------------------
+ 301. 文件名: 有点甜-汪苏泷_花澤香菜.mp3
+     类型: .mp3
+     大小: 9.31 MB (9762530 字节)
+     修改时间: 2026-01-21 15:06:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\有点甜-汪苏泷_花澤香菜.mp3
+----------------------------------------
+ 302. 文件名: 本草纲目-周杰伦.flac
+     类型: .flac
+     大小: 24.13 MB (25298432 字节)
+     修改时间: 2026-01-21 17:30:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\本草纲目-周杰伦.flac
+----------------------------------------
+ 303. 文件名: 李恩泽 - 求佛 (RnB版).flac
+     类型: .flac
+     大小: 40.94 MB (42926156 字节)
+     修改时间: 2026-01-21 15:53:48
+     完整路径: C:\Users\MI\Music\music_qq\Music\李恩泽 - 求佛 (RnB版).flac
+----------------------------------------
+ 304. 文件名: 李秉成 - 只为你着迷.flac
+     类型: .flac
+     大小: 27.11 MB (28430417 字节)
+     修改时间: 2026-01-21 15:53:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\李秉成 - 只为你着迷.flac
+----------------------------------------
+ 305. 文件名: 李荣浩 - 不将就.flac
+     类型: .flac
+     大小: 34.1 MB (35757900 字节)
+     修改时间: 2026-01-21 15:53:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\李荣浩 - 不将就.flac
+----------------------------------------
+ 306. 文件名: 李荣浩 - 恋人.flac
+     类型: .flac
+     大小: 54.79 MB (57455966 字节)
+     修改时间: 2026-01-21 15:53:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\李荣浩 - 恋人.flac
+----------------------------------------
+ 307. 文件名: 杜宣达 - 指纹.flac
+     类型: .flac
+     大小: 46.88 MB (49161102 字节)
+     修改时间: 2026-01-21 15:53:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\杜宣达 - 指纹.flac
+----------------------------------------
+ 308. 文件名: 杨丞琳 - 雨爱.flac
+     类型: .flac
+     大小: 32.39 MB (33968140 字节)
+     修改时间: 2026-01-21 15:54:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\杨丞琳 - 雨爱.flac
+----------------------------------------
+ 309. 文件名: 林俊杰 - Always Online.flac
+     类型: .flac
+     大小: 24.58 MB (25772688 字节)
+     修改时间: 2026-01-21 15:53:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - Always Online.flac
+----------------------------------------
+ 310. 文件名: 林俊杰 - 修炼爱情.flac
+     类型: .flac
+     大小: 31.75 MB (33291693 字节)
+     修改时间: 2026-01-21 15:53:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - 修炼爱情.flac
+----------------------------------------
+ 311. 文件名: 林俊杰 - 恨幸福来过_H.ogg
+     类型: .ogg
+     大小: 3.54 MB (3708596 字节)
+     修改时间: 2026-01-21 15:53:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - 恨幸福来过_H.ogg
+----------------------------------------
+ 312. 文件名: 林俊杰 - 故事细腻.flac
+     类型: .flac
+     大小: 21.46 MB (22498600 字节)
+     修改时间: 2026-01-21 15:53:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - 故事细腻.flac
+----------------------------------------
+ 313. 文件名: 林俊杰 - 江南.flac
+     类型: .flac
+     大小: 30.04 MB (31502202 字节)
+     修改时间: 2026-01-21 15:53:51
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - 江南.flac
+----------------------------------------
+ 314. 文件名: 林俊杰 - 美人鱼.flac
+     类型: .flac
+     大小: 29.92 MB (31376002 字节)
+     修改时间: 2026-01-21 15:53:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - 美人鱼.flac
+----------------------------------------
+ 315. 文件名: 林俊杰 - 达尔文.flac
+     类型: .flac
+     大小: 51.21 MB (53699169 字节)
+     修改时间: 2026-01-21 15:53:46
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - 达尔文.flac
+----------------------------------------
+ 316. 文件名: 林俊杰 - 那女孩对我说.flac
+     类型: .flac
+     大小: 50.79 MB (53252454 字节)
+     修改时间: 2026-01-21 15:53:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\林俊杰 - 那女孩对我说.flac
+----------------------------------------
+ 317. 文件名: 林忆莲 - 至少还有你.flac
+     类型: .flac
+     大小: 30.45 MB (31929658 字节)
+     修改时间: 2026-01-21 15:53:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\林忆莲 - 至少还有你.flac
+----------------------------------------
+ 318. 文件名: 枯树 (高燃摇滚版)-小梁的（梁思琪）.flac
+     类型: .flac
+     大小: 39.65 MB (41571076 字节)
+     修改时间: 2026-01-21 17:25:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\枯树 (高燃摇滚版)-小梁的（梁思琪）.flac
+----------------------------------------
+ 319. 文件名: 枯树-小梁的.mp3
+     类型: .mp3
+     大小: 7.04 MB (7377294 字节)
+     修改时间: 2026-01-21 15:06:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\枯树-小梁的.mp3
+----------------------------------------
+ 320. 文件名: 格雷西西西 - 负心多是读书郎_H.ogg
+     类型: .ogg
+     大小: 4.69 MB (4912605 字节)
+     修改时间: 2026-01-21 15:53:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\格雷西西西 - 负心多是读书郎_H.ogg
+----------------------------------------
+ 321. 文件名: 梁静茹 - 慢冷.flac
+     类型: .flac
+     大小: 56.37 MB (59112455 字节)
+     修改时间: 2026-01-21 15:53:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\梁静茹 - 慢冷.flac
+----------------------------------------
+ 322. 文件名: 梦带我旅行-高进.flac
+     类型: .flac
+     大小: 16.08 MB (16856183 字节)
+     修改时间: 2026-01-21 17:25:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\梦带我旅行-高进.flac
+----------------------------------------
+ 323. 文件名: 梦然 - 是你.flac
+     类型: .flac
+     大小: 23.24 MB (24367818 字节)
+     修改时间: 2026-01-21 15:53:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\梦然 - 是你.flac
+----------------------------------------
+ 324. 文件名: 梦醒时分-陈淑桦.flac
+     类型: .flac
+     大小: 24.4 MB (25589896 字节)
+     修改时间: 2026-01-21 17:25:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\梦醒时分-陈淑桦.flac
+----------------------------------------
+ 325. 文件名: 毛不易 - 呓语.flac
+     类型: .flac
+     大小: 28.56 MB (29946107 字节)
+     修改时间: 2026-01-21 15:53:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\毛不易 - 呓语.flac
+----------------------------------------
+ 326. 文件名: 毛不易 - 无名的人.flac
+     类型: .flac
+     大小: 52.46 MB (55003850 字节)
+     修改时间: 2026-01-21 15:53:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\毛不易 - 无名的人.flac
+----------------------------------------
+ 327. 文件名: 江语晨 - 最后一页.flac
+     类型: .flac
+     大小: 26.06 MB (27322813 字节)
+     修改时间: 2026-01-21 15:53:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\江语晨 - 最后一页.flac
+----------------------------------------
+ 328. 文件名: 汪苏泷 - 年轮.flac
+     类型: .flac
+     大小: 26.46 MB (27741858 字节)
+     修改时间: 2026-01-21 15:54:02
+     完整路径: C:\Users\MI\Music\music_qq\Music\汪苏泷 - 年轮.flac
+----------------------------------------
+ 329. 文件名: 汪苏泷 _ 吉克隽逸 - Letting Go (Live).flac
+     类型: .flac
+     大小: 55.44 MB (58135019 字节)
+     修改时间: 2026-01-21 15:54:01
+     完整路径: C:\Users\MI\Music\music_qq\Music\汪苏泷 _ 吉克隽逸 - Letting Go (Live).flac
+----------------------------------------
+ 330. 文件名: 没有理想何必远方-雨宗林.flac
+     类型: .flac
+     大小: 33.51 MB (35141073 字节)
+     修改时间: 2026-01-21 17:25:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\没有理想何必远方-雨宗林.flac
+----------------------------------------
+ 331. 文件名: 洋葱-杨宗纬.flac
+     类型: .flac
+     大小: 28.8 MB (30203718 字节)
+     修改时间: 2026-01-21 17:26:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\洋葱-杨宗纬.flac
+----------------------------------------
+ 332. 文件名: 派伟俊 _ mac ova seas - 左转灯 (1000 Times +1).flac
+     类型: .flac
+     大小: 40.73 MB (42709346 字节)
+     修改时间: 2026-01-21 15:53:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\派伟俊 _ mac ova seas - 左转灯 (1000 Times +1).flac
+----------------------------------------
+ 333. 文件名: 海绵宝宝-回音哥.flac
+     类型: .flac
+     大小: 22.27 MB (23348327 字节)
+     修改时间: 2026-01-21 17:25:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\海绵宝宝-回音哥.flac
+----------------------------------------
+ 334. 文件名: 海边探戈-王鹤棣 _ 王齐铭WatchMe _ 朴鲨.flac
+     类型: .flac
+     大小: 35.28 MB (36990617 字节)
+     修改时间: 2026-01-21 17:25:22
+     完整路径: C:\Users\MI\Music\music_qq\Music\海边探戈-王鹤棣 _ 王齐铭WatchMe _ 朴鲨.flac
+----------------------------------------
+ 335. 文件名: 海边探戈-王鹤棣_王齐铭WatchMe.mp3
+     类型: .mp3
+     大小: 7.16 MB (7506400 字节)
+     修改时间: 2026-01-21 15:06:01
+     完整路径: C:\Users\MI\Music\music_qq\Music\海边探戈-王鹤棣_王齐铭WatchMe.mp3
+----------------------------------------
+ 336. 文件名: 消愁-毛不易.mp3
+     类型: .mp3
+     大小: 6.89 MB (7224340 字节)
+     修改时间: 2026-01-21 15:06:36
+     完整路径: C:\Users\MI\Music\music_qq\Music\消愁-毛不易.mp3
+----------------------------------------
+ 337. 文件名: 清空-王忻辰 _ 苏星婕.flac
+     类型: .flac
+     大小: 31.16 MB (32669069 字节)
+     修改时间: 2026-01-21 17:30:59
+     完整路径: C:\Users\MI\Music\music_qq\Music\清空-王忻辰 _ 苏星婕.flac
+----------------------------------------
+ 338. 文件名: 清空-王忻辰_苏星婕.mp3
+     类型: .mp3
+     大小: 6.91 MB (7247704 字节)
+     修改时间: 2026-01-21 15:06:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\清空-王忻辰_苏星婕.mp3
+----------------------------------------
+ 339. 文件名: 渡 - 四点的海棠花未眠.flac
+     类型: .flac
+     大小: 37.6 MB (39424865 字节)
+     修改时间: 2026-01-21 15:53:35
+     完整路径: C:\Users\MI\Music\music_qq\Music\渡 - 四点的海棠花未眠.flac
+----------------------------------------
+ 340. 文件名: 温柔-五月天.flac
+     类型: .flac
+     大小: 33.3 MB (34919819 字节)
+     修改时间: 2026-01-21 17:26:36
+     完整路径: C:\Users\MI\Music\music_qq\Music\温柔-五月天.flac
+----------------------------------------
+ 341. 文件名: 游山恋-海伦.flac
+     类型: .flac
+     大小: 46.1 MB (48342575 字节)
+     修改时间: 2026-01-21 17:31:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\游山恋-海伦.flac
+----------------------------------------
+ 342. 文件名: 滴答-侃侃.mp3
+     类型: .mp3
+     大小: 3.6 MB (3777138 字节)
+     修改时间: 2026-01-21 15:05:56
+     完整路径: C:\Users\MI\Music\music_qq\Music\滴答-侃侃.mp3
+----------------------------------------
+ 343. 文件名: 潮汐(Natural)-IN-K_安苏羽.mp3
+     类型: .mp3
+     大小: 6.61 MB (6932790 字节)
+     修改时间: 2026-01-21 17:30:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\潮汐(Natural)-IN-K_安苏羽.mp3
+----------------------------------------
+ 344. 文件名: 火红的萨日朗-乌兰托娅.mp3
+     类型: .mp3
+     大小: 9.52 MB (9983146 字节)
+     修改时间: 2026-01-21 15:06:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\火红的萨日朗-乌兰托娅.mp3
+----------------------------------------
+ 345. 文件名: 火红的萨日朗-徐泽（要不要买菜）.flac
+     类型: .flac
+     大小: 43.39 MB (45501459 字节)
+     修改时间: 2026-01-21 17:25:28
+     完整路径: C:\Users\MI\Music\music_qq\Music\火红的萨日朗-徐泽（要不要买菜）.flac
+----------------------------------------
+ 346. 文件名: 烟火里的尘埃-华晨宇.flac
+     类型: .flac
+     大小: 35.24 MB (36954131 字节)
+     修改时间: 2026-01-21 17:26:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\烟火里的尘埃-华晨宇.flac
+----------------------------------------
+ 347. 文件名: 烟火里的尘埃-黄霄雲.mp3
+     类型: .mp3
+     大小: 13.13 MB (13772589 字节)
+     修改时间: 2026-01-21 15:06:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\烟火里的尘埃-黄霄雲.mp3
+----------------------------------------
+ 348. 文件名: 烧掉一片天空-张妙格.flac
+     类型: .flac
+     大小: 39.74 MB (41674058 字节)
+     修改时间: 2026-01-21 17:26:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\烧掉一片天空-张妙格.flac
+----------------------------------------
+ 349. 文件名: 热烈的少年 (Live)-黄誉博 _ 赖美云 _ 张星特.flac
+     类型: .flac
+     大小: 25.09 MB (26308256 字节)
+     修改时间: 2026-01-21 17:26:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\热烈的少年 (Live)-黄誉博 _ 赖美云 _ 张星特.flac
+----------------------------------------
+ 350. 文件名: 热烈的少年-Big Cole.flac
+     类型: .flac
+     大小: 39.54 MB (41461212 字节)
+     修改时间: 2026-01-21 17:26:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\热烈的少年-Big Cole.flac
+----------------------------------------
+ 351. 文件名: 热烈的少年-Cole.mp3
+     类型: .mp3
+     大小: 7.24 MB (7587818 字节)
+     修改时间: 2026-01-21 15:06:21
+     完整路径: C:\Users\MI\Music\music_qq\Music\热烈的少年-Cole.mp3
+----------------------------------------
+ 352. 文件名: 热烈的少年-善宇.flac
+     类型: .flac
+     大小: 39.74 MB (41667713 字节)
+     修改时间: 2026-01-21 17:26:07
+     完整路径: C:\Users\MI\Music\music_qq\Music\热烈的少年-善宇.flac
+----------------------------------------
+ 353. 文件名: 热辣滚烫-刘宇宁.flac
+     类型: .flac
+     大小: 70.58 MB (74009304 字节)
+     修改时间: 2026-01-21 17:26:04
+     完整路径: C:\Users\MI\Music\music_qq\Music\热辣滚烫-刘宇宁.flac
+----------------------------------------
+ 354. 文件名: 热辣滚烫-希林娜依高.mp3
+     类型: .mp3
+     大小: 14.19 MB (14874801 字节)
+     修改时间: 2026-01-21 15:06:21
+     完整路径: C:\Users\MI\Music\music_qq\Music\热辣滚烫-希林娜依高.mp3
+----------------------------------------
+ 355. 文件名: 热铁皮房顶的夏天-王赫野.flac
+     类型: .flac
+     大小: 41.78 MB (43805704 字节)
+     修改时间: 2026-01-21 17:26:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\热铁皮房顶的夏天-王赫野.flac
+----------------------------------------
+ 356. 文件名: 爱的飞行日记-周杰伦 _ 杨瑞代.flac
+     类型: .flac
+     大小: 29.79 MB (31238059 字节)
+     修改时间: 2026-01-21 17:30:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\爱的飞行日记-周杰伦 _ 杨瑞代.flac
+----------------------------------------
+ 357. 文件名: 特别的人-方大同.flac
+     类型: .flac
+     大小: 26.82 MB (28118177 字节)
+     修改时间: 2026-01-21 17:26:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\特别的人-方大同.flac
+----------------------------------------
+ 358. 文件名: 特别的爱给特别的你-伍思凯.flac
+     类型: .flac
+     大小: 29.13 MB (30548326 字节)
+     修改时间: 2026-01-21 17:26:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\特别的爱给特别的你-伍思凯.flac
+----------------------------------------
+ 359. 文件名: 王力宏 - 我们的歌.flac
+     类型: .flac
+     大小: 27.66 MB (29005343 字节)
+     修改时间: 2026-01-21 15:54:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\王力宏 - 我们的歌.flac
+----------------------------------------
+ 360. 文件名: 王力宏 - 爱错.flac
+     类型: .flac
+     大小: 26.45 MB (27739627 字节)
+     修改时间: 2026-01-21 15:54:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\王力宏 - 爱错.flac
+----------------------------------------
+ 361. 文件名: 王唯旖 - 舍得.flac
+     类型: .flac
+     大小: 26.61 MB (27903865 字节)
+     修改时间: 2026-01-21 15:54:04
+     完整路径: C:\Users\MI\Music\music_qq\Music\王唯旖 - 舍得.flac
+----------------------------------------
+ 362. 文件名: 王妃-萧敬腾.flac
+     类型: .flac
+     大小: 27.97 MB (29333416 字节)
+     修改时间: 2026-01-21 17:26:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\王妃-萧敬腾.flac
+----------------------------------------
+ 363. 文件名: 王宇宙Leto _ 乔浚丞 - 若月亮没来 (若是月亮还没来).flac
+     类型: .flac
+     大小: 34.04 MB (35689163 字节)
+     修改时间: 2026-01-21 15:54:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\王宇宙Leto _ 乔浚丞 - 若月亮没来 (若是月亮还没来).flac
+----------------------------------------
+ 364. 文件名: 王睿卓 _ Damn5z - 重生之我在异乡为异客.flac
+     类型: .flac
+     大小: 18.61 MB (19513379 字节)
+     修改时间: 2026-01-21 15:54:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\王睿卓 _ Damn5z - 重生之我在异乡为异客.flac
+----------------------------------------
+ 365. 文件名: 王艳薇 - 离开我的依赖.flac
+     类型: .flac
+     大小: 29.57 MB (31002674 字节)
+     修改时间: 2026-01-21 15:54:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\王艳薇 - 离开我的依赖.flac
+----------------------------------------
+ 366. 文件名: 王菲 - 世界赠予我的.flac
+     类型: .flac
+     大小: 42.15 MB (44197971 字节)
+     修改时间: 2026-01-21 17:26:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\王菲 - 世界赠予我的.flac
+----------------------------------------
+ 367. 文件名: 王菲 - 如愿.flac
+     类型: .flac
+     大小: 48.47 MB (50821849 字节)
+     修改时间: 2026-01-21 15:54:02
+     完整路径: C:\Users\MI\Music\music_qq\Music\王菲 - 如愿.flac
+----------------------------------------
+ 368. 文件名: 王蓝茵 - 恶作剧.flac
+     类型: .flac
+     大小: 25.63 MB (26876760 字节)
+     修改时间: 2026-01-21 15:54:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\王蓝茵 - 恶作剧.flac
+----------------------------------------
+ 369. 文件名: 王贰浪 - 像鱼.flac
+     类型: .flac
+     大小: 28.33 MB (29702677 字节)
+     修改时间: 2026-01-21 15:54:04
+     完整路径: C:\Users\MI\Music\music_qq\Music\王贰浪 - 像鱼.flac
+----------------------------------------
+ 370. 文件名: 王靖雯 - 忘了没有.flac
+     类型: .flac
+     大小: 50.2 MB (52634973 字节)
+     修改时间: 2026-01-21 15:54:03
+     完整路径: C:\Users\MI\Music\music_qq\Music\王靖雯 - 忘了没有.flac
+----------------------------------------
+ 371. 文件名: 王靖雯 - 沦陷.flac
+     类型: .flac
+     大小: 46.14 MB (48380506 字节)
+     修改时间: 2026-01-21 15:54:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\王靖雯 - 沦陷.flac
+----------------------------------------
+ 372. 文件名: 王靖雯 - 谦让.flac
+     类型: .flac
+     大小: 26.84 MB (28141104 字节)
+     修改时间: 2026-01-21 15:54:03
+     完整路径: C:\Users\MI\Music\music_qq\Music\王靖雯 - 谦让.flac
+----------------------------------------
+ 373. 文件名: 玫瑰-徐泽（要不要买菜）.flac
+     类型: .flac
+     大小: 18.38 MB (19272592 字节)
+     修改时间: 2026-01-21 17:25:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\玫瑰-徐泽（要不要买菜）.flac
+----------------------------------------
+ 374. 文件名: 玫瑰-贰佰.mp3
+     类型: .mp3
+     大小: 3.54 MB (3716594 字节)
+     修改时间: 2026-01-21 15:06:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\玫瑰-贰佰.mp3
+----------------------------------------
+ 375. 文件名: 玫瑰少年-五月天.mp3
+     类型: .mp3
+     大小: 9.24 MB (9685996 字节)
+     修改时间: 2026-01-21 15:06:12
+     完整路径: C:\Users\MI\Music\music_qq\Music\玫瑰少年-五月天.mp3
+----------------------------------------
+ 376. 文件名: 玫瑰花的葬礼-许嵩.flac
+     类型: .flac
+     大小: 26.19 MB (27461763 字节)
+     修改时间: 2026-01-21 17:25:52
+     完整路径: C:\Users\MI\Music\music_qq\Music\玫瑰花的葬礼-许嵩.flac
+----------------------------------------
+ 377. 文件名: 生僻字-陈柯宇.flac
+     类型: .flac
+     大小: 24.73 MB (25933510 字节)
+     修改时间: 2026-01-21 17:26:12
+     完整路径: C:\Users\MI\Music\music_qq\Music\生僻字-陈柯宇.flac
+----------------------------------------
+ 378. 文件名: 田园 - 先说爱的人为什么先离开.flac
+     类型: .flac
+     大小: 25.31 MB (26541753 字节)
+     修改时间: 2026-01-21 15:54:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\田园 - 先说爱的人为什么先离开.flac
+----------------------------------------
+ 379. 文件名: 盛哲 - 在你的身边.flac
+     类型: .flac
+     大小: 54.08 MB (56706177 字节)
+     修改时间: 2026-01-21 15:53:56
+     完整路径: C:\Users\MI\Music\music_qq\Music\盛哲 - 在你的身边.flac
+----------------------------------------
+ 380. 文件名: 看得最远的地方-张韶涵.mp3
+     类型: .mp3
+     大小: 9.6 MB (10062804 字节)
+     修改时间: 2026-01-21 15:06:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\看得最远的地方-张韶涵.mp3
+----------------------------------------
+ 381. 文件名: 看得最远的地方-毛不易.flac
+     类型: .flac
+     大小: 49.66 MB (52075213 字节)
+     修改时间: 2026-01-21 17:25:36
+     完整路径: C:\Users\MI\Music\music_qq\Music\看得最远的地方-毛不易.flac
+----------------------------------------
+ 382. 文件名: 知鷗周 _ 夏星眠 - 没出息（本来应该从从容容游刃有余）.flac
+     类型: .flac
+     大小: 39.14 MB (41036147 字节)
+     修改时间: 2026-01-21 15:54:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\知鷗周 _ 夏星眠 - 没出息（本来应该从从容容游刃有余）.flac
+----------------------------------------
+ 383. 文件名: 离别思故乡 (弹唱版)-王睿卓.flac
+     类型: .flac
+     大小: 22.13 MB (23206421 字节)
+     修改时间: 2026-01-21 17:25:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\离别思故乡 (弹唱版)-王睿卓.flac
+----------------------------------------
+ 384. 文件名: 离别思故乡-就是南方凯.mp3
+     类型: .mp3
+     大小: 7.57 MB (7932643 字节)
+     修改时间: 2026-01-21 15:06:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\离别思故乡-就是南方凯.mp3
+----------------------------------------
+ 385. 文件名: 程响 - 可能.flac
+     类型: .flac
+     大小: 41.16 MB (43156868 字节)
+     修改时间: 2026-01-21 15:53:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\程响 - 可能.flac
+----------------------------------------
+ 386. 文件名: 稻香-周杰伦.flac
+     类型: .flac
+     大小: 24.55 MB (25747091 字节)
+     修改时间: 2026-01-21 17:25:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\稻香-周杰伦.flac
+----------------------------------------
+ 387. 文件名: 空城-杨坤.flac
+     类型: .flac
+     大小: 30.17 MB (31634994 字节)
+     修改时间: 2026-01-21 17:25:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\空城-杨坤.flac
+----------------------------------------
+ 388. 文件名: 突然的自我 (Live)-伍佰 & China Blue.flac
+     类型: .flac
+     大小: 24.81 MB (26018775 字节)
+     修改时间: 2026-01-21 17:26:23
+     完整路径: C:\Users\MI\Music\music_qq\Music\突然的自我 (Live)-伍佰 & China Blue.flac
+----------------------------------------
+ 389. 文件名: 突然的自我-伍佰 China Blue.mp3
+     类型: .mp3
+     大小: 8.46 MB (8874097 字节)
+     修改时间: 2026-01-21 15:06:29
+     完整路径: C:\Users\MI\Music\music_qq\Music\突然的自我-伍佰 China Blue.mp3
+----------------------------------------
+ 390. 文件名: 童话-光良.flac
+     类型: .flac
+     大小: 27.92 MB (29273126 字节)
+     修改时间: 2026-01-21 17:26:23
+     完整路径: C:\Users\MI\Music\music_qq\Music\童话-光良.flac
+----------------------------------------
+ 391. 文件名: 等你下课 (with 杨瑞代)-周杰伦.flac
+     类型: .flac
+     大小: 55.24 MB (57923761 字节)
+     修改时间: 2026-01-21 17:25:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\等你下课 (with 杨瑞代)-周杰伦.flac
+----------------------------------------
+ 392. 文件名: 等着我回来-戴羽彤.flac
+     类型: .flac
+     大小: 46.9 MB (49177743 字节)
+     修改时间: 2026-01-21 17:25:10
+     完整路径: C:\Users\MI\Music\music_qq\Music\等着我回来-戴羽彤.flac
+----------------------------------------
+ 393. 文件名: 简单爱-周杰伦.flac
+     类型: .flac
+     大小: 30.93 MB (32431213 字节)
+     修改时间: 2026-01-21 17:25:31
+     完整路径: C:\Users\MI\Music\music_qq\Music\简单爱-周杰伦.flac
+----------------------------------------
+ 394. 文件名: 粉色信笺-许嵩.mp3
+     类型: .mp3
+     大小: 12.62 MB (13237307 字节)
+     修改时间: 2026-01-21 15:05:58
+     完整路径: C:\Users\MI\Music\music_qq\Music\粉色信笺-许嵩.mp3
+----------------------------------------
+ 395. 文件名: 粉色信笺_H-许嵩.ogg
+     类型: .ogg
+     大小: 7.94 MB (8329620 字节)
+     修改时间: 2026-01-21 17:25:19
+     完整路径: C:\Users\MI\Music\music_qq\Music\粉色信笺_H-许嵩.ogg
+----------------------------------------
+ 396. 文件名: 素颜-许嵩 _ 何曼婷.flac
+     类型: .flac
+     大小: 26.38 MB (27666164 字节)
+     修改时间: 2026-01-21 17:26:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\素颜-许嵩 _ 何曼婷.flac
+----------------------------------------
+ 397. 文件名: 素颜-许嵩_何曼婷.mp3
+     类型: .mp3
+     大小: 4.06 MB (4257142 字节)
+     修改时间: 2026-01-21 15:06:26
+     完整路径: C:\Users\MI\Music\music_qq\Music\素颜-许嵩_何曼婷.mp3
+----------------------------------------
+ 398. 文件名: 红尘-梁雨.flac
+     类型: .flac
+     大小: 44.78 MB (46953615 字节)
+     修改时间: 2026-01-21 17:25:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\红尘-梁雨.flac
+----------------------------------------
+ 399. 文件名: 红尘客栈-周杰伦.mp3
+     类型: .mp3
+     大小: 11.0 MB (11535464 字节)
+     修改时间: 2026-01-21 15:06:04
+     完整路径: C:\Users\MI\Music\music_qq\Music\红尘客栈-周杰伦.mp3
+----------------------------------------
+ 400. 文件名: 约定（远处的钟声回荡在雨里）-易点点.flac
+     类型: .flac
+     大小: 38.1 MB (39949828 字节)
+     修改时间: 2026-01-21 17:27:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\约定（远处的钟声回荡在雨里）-易点点.flac
+----------------------------------------
+ 401. 文件名: 给你们-张宇.flac
+     类型: .flac
+     大小: 32.51 MB (34085811 字节)
+     修改时间: 2026-01-21 17:25:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\给你们-张宇.flac
+----------------------------------------
+ 402. 文件名: 老街-李荣浩.flac
+     类型: .flac
+     大小: 29.57 MB (31001278 字节)
+     修改时间: 2026-01-21 17:25:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\老街-李荣浩.flac
+----------------------------------------
+ 403. 文件名: 耗尽-薛之谦 _ 郭聪明.flac
+     类型: .flac
+     大小: 30.14 MB (31606564 字节)
+     修改时间: 2026-01-21 17:25:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\耗尽-薛之谦 _ 郭聪明.flac
+----------------------------------------
+ 404. 文件名: 耗尽-薛之谦_郭聪明.mp3
+     类型: .mp3
+     大小: 11.75 MB (12318055 字节)
+     修改时间: 2026-01-21 15:06:02
+     完整路径: C:\Users\MI\Music\music_qq\Music\耗尽-薛之谦_郭聪明.mp3
+----------------------------------------
+ 405. 文件名: 胡彦斌 - 你要的全拿走.flac
+     类型: .flac
+     大小: 35.27 MB (36985857 字节)
+     修改时间: 2026-01-21 15:53:41
+     完整路径: C:\Users\MI\Music\music_qq\Music\胡彦斌 - 你要的全拿走.flac
+----------------------------------------
+ 406. 文件名: 自愈-穆哲熙.flac
+     类型: .flac
+     大小: 18.97 MB (19888401 字节)
+     修改时间: 2026-01-21 17:27:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\自愈-穆哲熙.flac
+----------------------------------------
+ 407. 文件名: 花与马-大籽.flac
+     类型: .flac
+     大小: 23.46 MB (24600597 字节)
+     修改时间: 2026-01-21 17:25:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\花与马-大籽.flac
+----------------------------------------
+ 408. 文件名: 花儿和少年-薛之谦.flac
+     类型: .flac
+     大小: 28.51 MB (29895561 字节)
+     修改时间: 2026-01-21 17:25:29
+     完整路径: C:\Users\MI\Music\music_qq\Music\花儿和少年-薛之谦.flac
+----------------------------------------
+ 409. 文件名: 苏星婕 - 一直很安静 (释怀版).flac
+     类型: .flac
+     大小: 33.51 MB (35138937 字节)
+     修改时间: 2026-01-21 15:54:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\苏星婕 - 一直很安静 (释怀版).flac
+----------------------------------------
+ 410. 文件名: 苏星婕 - 不回头的人.flac
+     类型: .flac
+     大小: 37.69 MB (39517703 字节)
+     修改时间: 2026-01-21 15:53:58
+     完整路径: C:\Users\MI\Music\music_qq\Music\苏星婕 - 不回头的人.flac
+----------------------------------------
+ 411. 文件名: 苏星婕 - 听悲伤的情歌.flac
+     类型: .flac
+     大小: 35.62 MB (37354598 字节)
+     修改时间: 2026-01-21 15:54:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\苏星婕 - 听悲伤的情歌.flac
+----------------------------------------
+ 412. 文件名: 苏星婕 - 把回忆拼好给你.flac
+     类型: .flac
+     大小: 35.11 MB (36819440 字节)
+     修改时间: 2026-01-21 15:53:57
+     完整路径: C:\Users\MI\Music\music_qq\Music\苏星婕 - 把回忆拼好给你.flac
+----------------------------------------
+ 413. 文件名: 苏星婕 - 风吹过八千里.flac
+     类型: .flac
+     大小: 20.24 MB (21220461 字节)
+     修改时间: 2026-01-21 15:53:59
+     完整路径: C:\Users\MI\Music\music_qq\Music\苏星婕 - 风吹过八千里.flac
+----------------------------------------
+ 414. 文件名: 茜拉 (Shila Amzah) - 到时说爱我.flac
+     类型: .flac
+     大小: 23.32 MB (24448735 字节)
+     修改时间: 2026-01-21 15:53:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\茜拉 (Shila Amzah) - 到时说爱我.flac
+----------------------------------------
+ 415. 文件名: 莫叔 - 树的花语（风轻轻说别追问太多）.flac
+     类型: .flac
+     大小: 33.67 MB (35303644 字节)
+     修改时间: 2026-01-21 15:53:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\莫叔 - 树的花语（风轻轻说别追问太多）.flac
+----------------------------------------
+ 416. 文件名: 莫文蔚 - 这世界那么多人.flac
+     类型: .flac
+     大小: 50.78 MB (53247420 字节)
+     修改时间: 2026-01-21 15:53:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\莫文蔚 - 这世界那么多人.flac
+----------------------------------------
+ 417. 文件名: 菲菲公主（陆绮菲） - 第57次取消发送.flac
+     类型: .flac
+     大小: 35.5 MB (37223869 字节)
+     修改时间: 2026-01-21 15:53:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\菲菲公主（陆绮菲） - 第57次取消发送.flac
+----------------------------------------
+ 418. 文件名: 萧亚轩 - 遗失的心跳.flac
+     类型: .flac
+     大小: 25.01 MB (26221520 字节)
+     修改时间: 2026-01-21 15:54:11
+     完整路径: C:\Users\MI\Music\music_qq\Music\萧亚轩 - 遗失的心跳.flac
+----------------------------------------
+ 419. 文件名: 葛东琪 - 悬溺.flac
+     类型: .flac
+     大小: 20.14 MB (21114161 字节)
+     修改时间: 2026-01-21 15:53:38
+     完整路径: C:\Users\MI\Music\music_qq\Music\葛东琪 - 悬溺.flac
+----------------------------------------
+ 420. 文件名: 董唧唧 - 新年胜旧年.flac
+     类型: .flac
+     大小: 50.36 MB (52807911 字节)
+     修改时间: 2026-01-21 15:53:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\董唧唧 - 新年胜旧年.flac
+----------------------------------------
+ 421. 文件名: 蓝色灰色-Zkaaai.flac
+     类型: .flac
+     大小: 46.94 MB (49223870 字节)
+     修改时间: 2026-01-21 17:25:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\蓝色灰色-Zkaaai.flac
+----------------------------------------
+ 422. 文件名: 蓝莲花-许巍.flac
+     类型: .flac
+     大小: 30.71 MB (32199779 字节)
+     修改时间: 2026-01-21 17:25:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\蓝莲花-许巍.flac
+----------------------------------------
+ 423. 文件名: 蔡依林 - 妥协.flac
+     类型: .flac
+     大小: 26.76 MB (28056218 字节)
+     修改时间: 2026-01-21 15:53:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\蔡依林 - 妥协.flac
+----------------------------------------
+ 424. 文件名: 蔡健雅 - Letting Go.flac
+     类型: .flac
+     大小: 29.87 MB (31321986 字节)
+     修改时间: 2026-01-21 15:53:28
+     完整路径: C:\Users\MI\Music\music_qq\Music\蔡健雅 - Letting Go.flac
+----------------------------------------
+ 425. 文件名: 蔡健雅 - 红色高跟鞋.flac
+     类型: .flac
+     大小: 24.83 MB (26033770 字节)
+     修改时间: 2026-01-21 15:53:27
+     完整路径: C:\Users\MI\Music\music_qq\Music\蔡健雅 - 红色高跟鞋.flac
+----------------------------------------
+ 426. 文件名: 薛之谦 - 其实.flac
+     类型: .flac
+     大小: 22.23 MB (23305098 字节)
+     修改时间: 2026-01-21 15:54:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\薛之谦 - 其实.flac
+----------------------------------------
+ 427. 文件名: 薛之谦 - 变废为宝.flac
+     类型: .flac
+     大小: 50.3 MB (52747281 字节)
+     修改时间: 2026-01-21 15:54:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\薛之谦 - 变废为宝.flac
+----------------------------------------
+ 428. 文件名: 薛之谦 - 天外来物.flac
+     类型: .flac
+     大小: 27.77 MB (29114759 字节)
+     修改时间: 2026-01-21 15:54:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\薛之谦 - 天外来物.flac
+----------------------------------------
+ 429. 文件名: 薛之谦 - 我好像在哪见过你.flac
+     类型: .flac
+     大小: 50.18 MB (52614697 字节)
+     修改时间: 2026-01-21 15:54:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\薛之谦 - 我好像在哪见过你.flac
+----------------------------------------
+ 430. 文件名: 薛之谦 - 演员.flac
+     类型: .flac
+     大小: 46.31 MB (48563737 字节)
+     修改时间: 2026-01-21 15:54:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\薛之谦 - 演员.flac
+----------------------------------------
+ 431. 文件名: 薛之谦 - 那是你离开了北京的生活.flac
+     类型: .flac
+     大小: 24.28 MB (25464343 字节)
+     修改时间: 2026-01-21 15:54:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\薛之谦 - 那是你离开了北京的生活.flac
+----------------------------------------
+ 432. 文件名: 街道办GDC _ 欧阳耀莹 - 春娇与志明.flac
+     类型: .flac
+     大小: 40.87 MB (42859290 字节)
+     修改时间: 2026-01-21 15:53:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\街道办GDC _ 欧阳耀莹 - 春娇与志明.flac
+----------------------------------------
+ 433. 文件名: 言瑾羽 - 未必.flac
+     类型: .flac
+     大小: 35.16 MB (36864585 字节)
+     修改时间: 2026-01-21 15:54:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\言瑾羽 - 未必.flac
+----------------------------------------
+ 434. 文件名: 让我欢喜让我忧 (Live)-薛之谦.flac
+     类型: .flac
+     大小: 47.05 MB (49336481 字节)
+     修改时间: 2026-01-21 17:26:05
+     完整路径: C:\Users\MI\Music\music_qq\Music\让我欢喜让我忧 (Live)-薛之谦.flac
+----------------------------------------
+ 435. 文件名: 让我欢喜让我忧-周华健.mp3
+     类型: .mp3
+     大小: 11.1 MB (11644177 字节)
+     修改时间: 2026-01-21 15:06:20
+     完整路径: C:\Users\MI\Music\music_qq\Music\让我欢喜让我忧-周华健.mp3
+----------------------------------------
+ 436. 文件名: 让我留在你身边-陈奕迅.flac
+     类型: .flac
+     大小: 37.95 MB (39790676 字节)
+     修改时间: 2026-01-21 17:26:04
+     完整路径: C:\Users\MI\Music\music_qq\Music\让我留在你身边-陈奕迅.flac
+----------------------------------------
+ 437. 文件名: 请先说你好-贺一航.flac
+     类型: .flac
+     大小: 32.45 MB (34021628 字节)
+     修改时间: 2026-01-21 17:26:02
+     完整路径: C:\Users\MI\Music\music_qq\Music\请先说你好-贺一航.flac
+----------------------------------------
+ 438. 文件名: 谁不是-金池.flac
+     类型: .flac
+     大小: 22.64 MB (23737383 字节)
+     修改时间: 2026-01-21 17:26:12
+     完整路径: C:\Users\MI\Music\music_qq\Music\谁不是-金池.flac
+----------------------------------------
+ 439. 文件名: 财神庙里许个愿-胖球鱼.flac
+     类型: .flac
+     大小: 38.86 MB (40744208 字节)
+     修改时间: 2026-01-21 17:30:13
+     完整路径: C:\Users\MI\Music\music_qq\Music\财神庙里许个愿-胖球鱼.flac
+----------------------------------------
+ 440. 文件名: 财神殿里的上上签-黄文文.flac
+     类型: .flac
+     大小: 39.93 MB (41864794 字节)
+     修改时间: 2026-01-21 17:25:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\财神殿里的上上签-黄文文.flac
+----------------------------------------
+ 441. 文件名: 走过咖啡屋 (摇滚版)-轻烟大叔.flac
+     类型: .flac
+     大小: 37.17 MB (38972443 字节)
+     修改时间: 2026-01-21 17:27:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\走过咖啡屋 (摇滚版)-轻烟大叔.flac
+----------------------------------------
+ 442. 文件名: 赵乃吉 - 高明.flac
+     类型: .flac
+     大小: 44.71 MB (46884046 字节)
+     修改时间: 2026-01-21 15:54:21
+     完整路径: C:\Users\MI\Music\music_qq\Music\赵乃吉 - 高明.flac
+----------------------------------------
+ 443. 文件名: 起风了 (旧版)_H-买辣椒也用券.ogg
+     类型: .ogg
+     大小: 5.69 MB (5961454 字节)
+     修改时间: 2026-01-21 17:30:59
+     完整路径: C:\Users\MI\Music\music_qq\Music\起风了 (旧版)_H-买辣椒也用券.ogg
+----------------------------------------
+ 444. 文件名: 起风了-买辣椒也用券.mp3
+     类型: .mp3
+     大小: 12.03 MB (12617954 字节)
+     修改时间: 2026-01-21 15:06:19
+     完整路径: C:\Users\MI\Music\music_qq\Music\起风了-买辣椒也用券.mp3
+----------------------------------------
+ 445. 文件名: 进一 - 间距 (摇滚版).flac
+     类型: .flac
+     大小: 57.22 MB (60000311 字节)
+     修改时间: 2026-01-21 15:53:45
+     完整路径: C:\Users\MI\Music\music_qq\Music\进一 - 间距 (摇滚版).flac
+----------------------------------------
+ 446. 文件名: 远走高飞-金志文.flac
+     类型: .flac
+     大小: 26.81 MB (28114328 字节)
+     修改时间: 2026-01-21 17:26:59
+     完整路径: C:\Users\MI\Music\music_qq\Music\远走高飞-金志文.flac
+----------------------------------------
+ 447. 文件名: 违背的青春-薛之谦.flac
+     类型: .flac
+     大小: 69.14 MB (72500444 字节)
+     修改时间: 2026-01-21 17:26:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\违背的青春-薛之谦.flac
+----------------------------------------
+ 448. 文件名: 追光者-岑宁儿.flac
+     类型: .flac
+     大小: 20.88 MB (21899267 字节)
+     修改时间: 2026-01-21 17:27:08
+     完整路径: C:\Users\MI\Music\music_qq\Music\追光者-岑宁儿.flac
+----------------------------------------
+ 449. 文件名: 逆潮 (DJ楠哈哈版)-彭小胖.flac
+     类型: .flac
+     大小: 21.37 MB (22410284 字节)
+     修改时间: 2026-01-21 17:25:56
+     完整路径: C:\Users\MI\Music\music_qq\Music\逆潮 (DJ楠哈哈版)-彭小胖.flac
+----------------------------------------
+ 450. 文件名: 那个女孩-宝石Gem.flac
+     类型: .flac
+     大小: 62.84 MB (65893119 字节)
+     修改时间: 2026-01-21 17:25:53
+     完整路径: C:\Users\MI\Music\music_qq\Music\那个女孩-宝石Gem.flac
+----------------------------------------
+ 451. 文件名: 那个女孩-陶喆_卢广仲.mp3
+     类型: .mp3
+     大小: 10.69 MB (11212713 字节)
+     修改时间: 2026-01-21 15:06:14
+     完整路径: C:\Users\MI\Music\music_qq\Music\那个女孩-陶喆_卢广仲.mp3
+----------------------------------------
+ 452. 文件名: 那些你很冒险的梦-林俊杰.flac
+     类型: .flac
+     大小: 26.53 MB (27816204 字节)
+     修改时间: 2026-01-21 17:25:56
+     完整路径: C:\Users\MI\Music\music_qq\Music\那些你很冒险的梦-林俊杰.flac
+----------------------------------------
+ 453. 文件名: 那奇沃夫 _ KKECHO - 苦咖啡·唯一.flac
+     类型: .flac
+     大小: 37.91 MB (39754657 字节)
+     修改时间: 2026-01-21 15:53:54
+     完整路径: C:\Users\MI\Music\music_qq\Music\那奇沃夫 _ KKECHO - 苦咖啡·唯一.flac
+----------------------------------------
+ 454. 文件名: 那是残 - 顺其自然 (0_8x 降调版)_H.ogg
+     类型: .ogg
+     大小: 4.05 MB (4243667 字节)
+     修改时间: 2026-01-21 15:53:54
+     完整路径: C:\Users\MI\Music\music_qq\Music\那是残 - 顺其自然 (0_8x 降调版)_H.ogg
+----------------------------------------
+ 455. 文件名: 邵帅 - 暖一杯茶.flac
+     类型: .flac
+     大小: 26.83 MB (28135943 字节)
+     修改时间: 2026-01-21 15:53:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\邵帅 - 暖一杯茶.flac
+----------------------------------------
+ 456. 文件名: 郁可唯 - 去有风的地方.flac
+     类型: .flac
+     大小: 43.31 MB (45416090 字节)
+     修改时间: 2026-01-21 15:54:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\郁可唯 - 去有风的地方.flac
+----------------------------------------
+ 457. 文件名: 郑润泽 - 瞬.flac
+     类型: .flac
+     大小: 28.95 MB (30358114 字节)
+     修改时间: 2026-01-21 15:54:23
+     完整路径: C:\Users\MI\Music\music_qq\Music\郑润泽 - 瞬.flac
+----------------------------------------
+ 458. 文件名: 郭一凡 - 有我呢.flac
+     类型: .flac
+     大小: 26.76 MB (28058866 字节)
+     修改时间: 2026-01-21 15:53:41
+     完整路径: C:\Users\MI\Music\music_qq\Music\郭一凡 - 有我呢.flac
+----------------------------------------
+ 459. 文件名: 郭采洁 - 你在，不在.flac
+     类型: .flac
+     大小: 29.56 MB (30994976 字节)
+     修改时间: 2026-01-21 15:53:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\郭采洁 - 你在，不在.flac
+----------------------------------------
+ 460. 文件名: 郭静 - 下一个天亮.flac
+     类型: .flac
+     大小: 28.06 MB (29419851 字节)
+     修改时间: 2026-01-21 15:53:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\郭静 - 下一个天亮.flac
+----------------------------------------
+ 461. 文件名: 郭静 - 爱情讯息.flac
+     类型: .flac
+     大小: 30.59 MB (32078651 字节)
+     修改时间: 2026-01-21 15:53:40
+     完整路径: C:\Users\MI\Music\music_qq\Music\郭静 - 爱情讯息.flac
+----------------------------------------
+ 462. 文件名: 郭顶 - 凄美地.flac
+     类型: .flac
+     大小: 27.84 MB (29195433 字节)
+     修改时间: 2026-01-21 15:53:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\郭顶 - 凄美地.flac
+----------------------------------------
+ 463. 文件名: 重生之我在异乡为异客-王睿卓 _ Damn5z.flac
+     类型: .flac
+     大小: 18.61 MB (19513379 字节)
+     修改时间: 2026-01-21 17:27:03
+     完整路径: C:\Users\MI\Music\music_qq\Music\重生之我在异乡为异客-王睿卓 _ Damn5z.flac
+----------------------------------------
+ 464. 文件名: 银河与星斗-yihuik苡慧.flac
+     类型: .flac
+     大小: 40.85 MB (42829155 字节)
+     修改时间: 2026-01-21 17:26:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\银河与星斗-yihuik苡慧.flac
+----------------------------------------
+ 465. 文件名: 锤娜丽莎 - 我太笨.flac
+     类型: .flac
+     大小: 27.55 MB (28890303 字节)
+     修改时间: 2026-01-21 15:53:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\锤娜丽莎 - 我太笨.flac
+----------------------------------------
+ 466. 文件名: 问星海-小阿枫.flac
+     类型: .flac
+     大小: 23.06 MB (24178072 字节)
+     修改时间: 2026-01-21 17:26:33
+     完整路径: C:\Users\MI\Music\music_qq\Music\问星海-小阿枫.flac
+----------------------------------------
+ 467. 文件名: 队长 _ 黄礼格 - 一定会再见吧.flac
+     类型: .flac
+     大小: 44.27 MB (46417213 字节)
+     修改时间: 2026-01-21 15:53:34
+     完整路径: C:\Users\MI\Music\music_qq\Music\队长 _ 黄礼格 - 一定会再见吧.flac
+----------------------------------------
+ 468. 文件名: 阿YueYue _ 刘兆宇 - 冬眠·2023.flac
+     类型: .flac
+     大小: 38.15 MB (40008291 字节)
+     修改时间: 2026-01-21 15:53:25
+     完整路径: C:\Users\MI\Music\music_qq\Music\阿YueYue _ 刘兆宇 - 冬眠·2023.flac
+----------------------------------------
+ 469. 文件名: 陆奕彤 - 宇宙失帧.flac
+     类型: .flac
+     大小: 36.49 MB (38262944 字节)
+     修改时间: 2026-01-21 15:53:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\陆奕彤 - 宇宙失帧.flac
+----------------------------------------
+ 470. 文件名: 陆虎 - 别丢了你的勇敢.flac
+     类型: .flac
+     大小: 53.75 MB (56357372 字节)
+     修改时间: 2026-01-21 15:53:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\陆虎 - 别丢了你的勇敢.flac
+----------------------------------------
+ 471. 文件名: 陈奕迅 - 十年.flac
+     类型: .flac
+     大小: 20.76 MB (21771786 字节)
+     修改时间: 2026-01-21 15:53:31
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈奕迅 - 十年.flac
+----------------------------------------
+ 472. 文件名: 陈奕迅 - 单车.flac
+     类型: .flac
+     大小: 20.95 MB (21964300 字节)
+     修改时间: 2026-01-21 15:53:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈奕迅 - 单车.flac
+----------------------------------------
+ 473. 文件名: 陈奕迅 - 孤勇者.flac
+     类型: .flac
+     大小: 51.33 MB (53823839 字节)
+     修改时间: 2026-01-21 15:53:30
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈奕迅 - 孤勇者.flac
+----------------------------------------
+ 474. 文件名: 陈奕迅 - 孤独患者.flac
+     类型: .flac
+     大小: 28.87 MB (30267329 字节)
+     修改时间: 2026-01-21 15:53:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈奕迅 - 孤独患者.flac
+----------------------------------------
+ 475. 文件名: 陈子晴 - 偏向.flac
+     类型: .flac
+     大小: 33.94 MB (35586245 字节)
+     修改时间: 2026-01-21 15:53:31
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈子晴 - 偏向.flac
+----------------------------------------
+ 476. 文件名: 陈小春 - 街角的晚风.flac
+     类型: .flac
+     大小: 54.38 MB (57020228 字节)
+     修改时间: 2026-01-21 15:53:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈小春 - 街角的晚风.flac
+----------------------------------------
+ 477. 文件名: 陈文非 - 给尘埃里的我们.flac
+     类型: .flac
+     大小: 49.27 MB (51661430 字节)
+     修改时间: 2026-01-21 15:53:32
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈文非 - 给尘埃里的我们.flac
+----------------------------------------
+ 478. 文件名: 陈村长 - 爱怎么了 (降调版).flac
+     类型: .flac
+     大小: 55.4 MB (58094732 字节)
+     修改时间: 2026-01-21 15:53:30
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈村长 - 爱怎么了 (降调版).flac
+----------------------------------------
+ 479. 文件名: 陈柏宇 - 你瞒我瞒.flac
+     类型: .flac
+     大小: 22.02 MB (23094823 字节)
+     修改时间: 2026-01-21 15:53:29
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈柏宇 - 你瞒我瞒.flac
+----------------------------------------
+ 480. 文件名: 陈粒 - 小半.flac
+     类型: .flac
+     大小: 30.85 MB (32347864 字节)
+     修改时间: 2026-01-21 15:53:29
+     完整路径: C:\Users\MI\Music\music_qq\Music\陈粒 - 小半.flac
+----------------------------------------
+ 481. 文件名: 陶喆 - 二十二.flac
+     类型: .flac
+     大小: 30.49 MB (31971138 字节)
+     修改时间: 2026-01-21 15:54:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\陶喆 - 二十二.flac
+----------------------------------------
+ 482. 文件名: 陶喆 - 爱我还是他.flac
+     类型: .flac
+     大小: 28.19 MB (29563275 字节)
+     修改时间: 2026-01-21 15:54:01
+     完整路径: C:\Users\MI\Music\music_qq\Music\陶喆 - 爱我还是他.flac
+----------------------------------------
+ 483. 文件名: 雅俗共赏-戴羽彤.mp3
+     类型: .mp3
+     大小: 0.4 MB (423106 字节)
+     修改时间: 2026-01-21 15:06:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\雅俗共赏-戴羽彤.mp3
+----------------------------------------
+ 484. 文件名: 雅俗共赏-许嵩.flac
+     类型: .flac
+     大小: 26.48 MB (27770630 字节)
+     修改时间: 2026-01-21 17:26:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\雅俗共赏-许嵩.flac
+----------------------------------------
+ 485. 文件名: 雷雨季节-柯柯柯啊.flac
+     类型: .flac
+     大小: 49.34 MB (51736937 字节)
+     修改时间: 2026-01-21 17:25:39
+     完整路径: C:\Users\MI\Music\music_qq\Music\雷雨季节-柯柯柯啊.flac
+----------------------------------------
+ 486. 文件名: 青春没有售价-是可乐鸭.flac
+     类型: .flac
+     大小: 27.05 MB (28363603 字节)
+     修改时间: 2026-01-21 17:26:02
+     完整路径: C:\Users\MI\Music\music_qq\Music\青春没有售价-是可乐鸭.flac
+----------------------------------------
+ 487. 文件名: 青花-周传雄.flac
+     类型: .flac
+     大小: 35.26 MB (36975468 字节)
+     修改时间: 2026-01-21 17:26:00
+     完整路径: C:\Users\MI\Music\music_qq\Music\青花-周传雄.flac
+----------------------------------------
+ 488. 文件名: 青鸟飞鱼 - 此生不换.flac
+     类型: .flac
+     大小: 29.38 MB (30802187 字节)
+     修改时间: 2026-01-21 15:53:55
+     完整路径: C:\Users\MI\Music\music_qq\Music\青鸟飞鱼 - 此生不换.flac
+----------------------------------------
+ 489. 文件名: 韦礼安 - 女孩.flac
+     类型: .flac
+     大小: 38.66 MB (40538118 字节)
+     修改时间: 2026-01-21 15:54:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\韦礼安 - 女孩.flac
+----------------------------------------
+ 490. 文件名: 韦礼安 - 如果可以.flac
+     类型: .flac
+     大小: 52.44 MB (54989458 字节)
+     修改时间: 2026-01-21 15:54:06
+     完整路径: C:\Users\MI\Music\music_qq\Music\韦礼安 - 如果可以.flac
+----------------------------------------
+ 491. 文件名: 韦雄 - 根本你不懂得爱我.flac
+     类型: .flac
+     大小: 25.3 MB (26532775 字节)
+     修改时间: 2026-01-21 15:54:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\韦雄 - 根本你不懂得爱我.flac
+----------------------------------------
+ 492. 文件名: 颜人中 - 夏夜最后的烟火.flac
+     类型: .flac
+     大小: 28.3 MB (29673282 字节)
+     修改时间: 2026-01-21 15:54:15
+     完整路径: C:\Users\MI\Music\music_qq\Music\颜人中 - 夏夜最后的烟火.flac
+----------------------------------------
+ 493. 文件名: 颜人中 - 孤单心事.flac
+     类型: .flac
+     大小: 26.93 MB (28236251 字节)
+     修改时间: 2026-01-21 15:54:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\颜人中 - 孤单心事.flac
+----------------------------------------
+ 494. 文件名: 风度-汪苏泷.flac
+     类型: .flac
+     大小: 24.51 MB (25702985 字节)
+     修改时间: 2026-01-21 17:25:17
+     完整路径: C:\Users\MI\Music\music_qq\Music\风度-汪苏泷.flac
+----------------------------------------
+ 495. 文件名: 马师傅 - 善后.flac
+     类型: .flac
+     大小: 50.53 MB (52982851 字节)
+     修改时间: 2026-01-21 15:53:51
+     完整路径: C:\Users\MI\Music\music_qq\Music\马师傅 - 善后.flac
+----------------------------------------
+ 496. 文件名: 魏嘉莹 _ 魏如昀 - 勇气.flac
+     类型: .flac
+     大小: 49.82 MB (52239952 字节)
+     修改时间: 2026-01-21 15:54:09
+     完整路径: C:\Users\MI\Music\music_qq\Music\魏嘉莹 _ 魏如昀 - 勇气.flac
+----------------------------------------
+ 497. 文件名: 鱼美丸（yue） - 我落泪情绪零碎_L.ogg
+     类型: .ogg
+     大小: 2.32 MB (2434559 字节)
+     修改时间: 2026-01-21 15:54:18
+     完整路径: C:\Users\MI\Music\music_qq\Music\鱼美丸（yue） - 我落泪情绪零碎_L.ogg
+----------------------------------------
+ 498. 文件名: 鹿晗 - 我们的明天.flac
+     类型: .flac
+     大小: 26.1 MB (27364181 字节)
+     修改时间: 2026-01-21 15:53:50
+     完整路径: C:\Users\MI\Music\music_qq\Music\鹿晗 - 我们的明天.flac
+----------------------------------------
+ 499. 文件名: 麻雀-李荣浩.flac
+     类型: .flac
+     大小: 54.74 MB (57397609 字节)
+     修改时间: 2026-01-21 17:25:49
+     完整路径: C:\Users\MI\Music\music_qq\Music\麻雀-李荣浩.flac
+----------------------------------------
+ 500. 文件名: 黄小琥 - 现在那边是几点.flac
+     类型: .flac
+     大小: 28.16 MB (29525944 字节)
+     修改时间: 2026-01-21 15:53:43
+     完整路径: C:\Users\MI\Music\music_qq\Music\黄小琥 - 现在那边是几点.flac
+----------------------------------------
+ 501. 文件名: 龙卷风-周杰伦.flac
+     类型: .flac
+     大小: 26.58 MB (27875132 字节)
+     修改时间: 2026-01-21 17:25:47
+     完整路径: C:\Users\MI\Music\music_qq\Music\龙卷风-周杰伦.flac
+----------------------------------------
+
